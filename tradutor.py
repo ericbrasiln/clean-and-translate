@@ -1,29 +1,21 @@
-'''
-Build a Translator in Python
-Author: Ayushi Rawat
-'''
-
-#import the package
+#Importando o pacote
 from googletrans import Translator
-from googletrans.gtoken import TokenAcquirer
 
-# Store some text for translation:
+# Inserindo o texto a ser traduzido
 textoOriginal = input('Insira o texto a ser traduzido: ')
 
+# Definindo o idioma para tradução
 tLang = input('Defina o idioma da tradução final: ')
-# Create an instance of Translator to use
+
+# Criando a intância do Translator para uso
 translator = Translator()
 
-# detect the language
+# Detectando o idioma do texto original
 lang = translator.detect(textoOriginal)
 print(f'Idioma original: {lang}')
 
-# Call the translate()
+# Chamando o translate(), definindo tb a língua da tradução
 textoTraduzido = translator.translate(textoOriginal, dest=f'{tLang}')
 
-#print the result
+# Imprimindo o resultado na tela
 print(f'Tradução para o {tLang}: {textoTraduzido.text}')
-
-#translated = translator.translate(text, dest = 'pt')
-
-#print(translated.text)
