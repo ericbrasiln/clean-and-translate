@@ -1,0 +1,2 @@
+# translater
+Tradutor usando googletrans.
