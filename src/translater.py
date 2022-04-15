@@ -7,8 +7,10 @@ def split_text(text):
     '''Split text by pattern \n\[p\.\s\d+\]\s+'''
     with open(text, 'r') as f:
         text = f.read()
-        #text_list = text.split('[p. ') #pattern to 'boletim_clemence.txt
-        text_list = text.split('[p.') #pattern to 'lecture_de_darwin.txt and soc_antrop_paris.txt
+        #pattern to 'boletim_clemence.txt and boletim_sociedade_antrop_paris.txt
+        text_list = text.split('[p. ')
+        #pattern to 'lecture_de_darwin.txt and soc_antrop_paris.txt
+        #text_list = text.split('[p.') 
     return text_list
 
 # function to save the translated text to a file
@@ -22,7 +24,8 @@ def save_translated_text(translated_text, filename):
 def translate_text(source_file, source_language, target_language):
     '''Translate text
     '''
-    translated_text = GoogleTranslator(source=source_language, target=target_language).translate(text=source_file)
+    translated_text = GoogleTranslator(source=source_language, target=target_language)\
+        .translate(text=source_file)
     return translated_text
 
 source_file = input(str('Enter the source file name: '))

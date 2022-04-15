@@ -1,6 +1,7 @@
 """Script to clean text from a file.
 """
 import re
+from aux_functions import *
 
 # function to clean text
 def limpar_text(text):
@@ -26,20 +27,8 @@ def limpar_text(text):
     text = text.replace('\t', ' ')
     return text
 
-#function to save text in a file
-def save_text(text, filename):
-    """Save text in a file.
-    """
-    with open(filename, 'w') as file:
-        file.write(text)
+raw_text = 'raw_txt/boletim clemence.txt'    
+clean_text = 'clean_txt/boletim_clemence.txt'
 
-raw_text = 'raw_txt/boletim clemence.txt'#input(str('Caminho do arquivo a ser limpo: '))
-clean_text = 'clean_txt/boletim_clemence.txt'#input(str('Caminho do arquivo a ser salvo: '))
-
-# read file
-with open(raw_text, 'r') as f:
-    text = f.read()
-    #call function
-    text = limpar_text(text)
-    #save result
-    save_text(text, clean_text)
+# call functions
+read_save(raw_text, limpar_text, clean_text)
