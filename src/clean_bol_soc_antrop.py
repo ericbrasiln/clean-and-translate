@@ -18,7 +18,6 @@ def limpar_text(text):
     for even_page in even_pattern_matches:
         text = text.replace(even_page, f'[p. {even_page[-3:]}]')
     text = text.replace('-\n', '')
-    # find pattern \n, strings and remove \n 
     text = text.replace('\t', ' ')
     return text
 

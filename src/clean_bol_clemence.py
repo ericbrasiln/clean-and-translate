@@ -10,20 +10,14 @@ def limpar_text(text):
     # find matches for the pattern '\d{3} SÉANCE DU 2 OCTOBRE 1890.' 
     odd_pattern = re.compile(r'\d{3} SÉANCE DU 2 OCTOBRE 1890.')
     odd_pattern_matches = odd_pattern.findall(text)
-    odd_pages = [odd_page.replace('SÉANCE DU 2 OCTOBRE 1890.', '') for odd_page in odd_pattern_matches]
-    for odd_page in odd_pages:
-        odd_page = odd_page.strip()
-        text = text.replace(odd_page, f'[p. {odd_page}]')
-    text = text.replace(' SÉANCE DU 2 OCTOBRE 1890.', '')
+    for odd_page in odd_pattern_matches:
+        text = text.replace(odd_page, f'[p. {odd_page[0:3]}]')
     # find matches for the pattern 'DISCUSSION SUR LA DÉPOPULATION DE LA FRANCE. \d{3}'
     even_pattern = re.compile(r'DISCUSSION SUR LA DÉPOPULATION DE LA FRANCE. \d{3}')
     even_pattern_matches = even_pattern.findall(text)
-    even_pages = [even_page.replace('DISCUSSION SUR LA DÉPOPULATION DE LA FRANCE. ', '') for even_page in even_pattern_matches]
-    for even_page in even_pages:
-        text = text.replace(even_page, f'[p. {even_page}]')
-    text = text.replace('DISCUSSION SUR LA DÉPOPULATION DE LA FRANCE. ', '')
+    for even_page in even_pattern_matches:
+        text = text.replace(even_page, f'[p. {even_page[-3:]}]')
     text = text.replace('-\n', '')
-    # find pattern \n, strings and remove \n 
     text = text.replace('\t', ' ')
     return text
 
