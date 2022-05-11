@@ -1,0 +1,813 @@
+Pascal Duris
+
+Flourens lecteur de Darwin (ou de
+Clémence Royer ?) : à propos de son
+Examen du livre de M. Darwin sur
+l’origine des espèces (1864)
+
+L’Origine des espèces, l’œuvre maîtresse de Charles Darwin (1809-1882), paraît
+à Londres le 24 novembre 1859 et connaît aussitôt un immense succès. Dans
+son autobiographie, Darwin indique que les 1 250 exemplaires du premier tirage
+sont vendus le jour même de leur sortie ainsi que les 3 000 exemplaires de la
+deuxième édition publiée le 7 janvier 1860. En 1876, au moment où il consigne
+ces chiffres, 16 000 exemplaires de son livre avaient été vendus rien qu’en
+Angleterre.!
+
+En quelque 500 pages, Darwin y expose pourtant une théorie qu’il juge lui-
+même difficile et qu’il a mis vingt ans à élaborer à la suite de son voyage sur le
+Beagle. Elle repose sur un double constat. Celui d’abord d’une grande variabilité
+des organismes. Tous les êtres vivants, écrit Darwin, sont susceptibles de varia-
+tions individuelles accidentelles sous l’influence des conditions extérieures dans
+lesquelles ils vivent, par exemple la qualité de leur nourriture ou les changements
+du climat, et aussi selon qu’ils utilisent beaucoup ou peu tel ou tel organe. À ce
+premier constat, Darwin en ajoute un second, celui de l’augmentation exponen-
+tielle du nombre des espèces à la surface de la terre, alors que les ressources ali-
+mentaires pour les nourrir n’augmentent que de manière arithmétique. Une telle
+situation entraîne nécessairement au quotidien une lutte pour la vie (« struggle
+for life ») à trois niveaux : d’abord une lutte interindividuelle, entre concurrents,
+au sein d’une même espèce ; ensuite une lutte interspécifique, avec des préda-
+teurs ; enfin une lutte contre l’environnement. Dès lors, explique Darwin, quand
+on prend en compte ces deux constats, d’une part celui de la capacité naturelle
+indéfinie de variation des organismes, et d’autre part celui d’un combat incessant
+pour leur survie, il est presque sûr que certains individus vont présenter naturel-
+lement des variations qui vont les favoriser dans leur lutte pour l’existence, et
+
+1 Charles Darwin : La Vie d’un naturaliste à l’époque victorienne. Traduit par Jean-Michel
+Goux. Paris : Belin 1987, p. 103 [version originale anglaise : 1958]. Voir aussi : http://www.
+mpi.nl/people/dediu-dan/Origins150years.pdf [consulté le 19/02/2019].
+
+Pascal Duris, Université de Bordeaux — ANR/DFG Biolographes
+
+8 Open Access. © 2020 Pascal Duris, published by De Gruyter. This work is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+https://doi.org/10.1515/9783110665833-005
+
+62 —— Pascal Duris
+
+qu’ils vont pouvoir les transmettre à leur descendance. C’est ce que Darwin
+appelle la sélection naturelle (« natural selection »), mécanisme qui entraîne la
+survivance des individus les plus aptes et rend compte de ce qu’il nomme la des-
+cendance avec modification et que l’on appellera très vite l’évolution des espèces.
+Le jeu de la sélection naturelle sur de longues périodes de temps détermine, selon
+lui, la formation d’espèces nouvelles, en même temps qu’il provoque la dispari-
+tion des formes intermédiaires et les moins perfectionnées.
+
+1 La traduction de Clémence Royer
+
+Illustration de l’événement scientifique considérable que constitue la parution
+en 1859 du livre de Darwin, celui-ci est rapidement traduit dans presque toutes
+les langues européennes, « même », dit Darwin, en espagnol, en bohémien, en
+polonais et en russe.? La première traduction en français paraît le 31 mai 1862,
+et on la doit à une femme de lettres et de sciences autodidacte, Clémence Royer
+(1830-1902), « personne singulière, dont les allures ne sont point celles de son
+sexe », si l’on en croit ce que le médecin et zoologiste suisse Édouard Claparède
+(1832-1871), qui la connaît bien, écrit à Darwin le 6 septembre 18627 Acquise
+jusqu'alors au transformisme de Lamarck contre le créationnisme fixiste de Cu-
+vier, avocate de la cause des femmes, libre penseuse, maïs aussi convaincue
+que les hommes sont inégaux par nature, théoricienne du darwinisme social,
+c’est-à-dire d’une doctrine brutale prônant l’application à l’espèce humaine des
+principaux concepts (lutte pour l’existence, sélection naturelle, survie du plus
+apte) forgés par Darwin pour rendre compte de l’évolution des autres espèces
+vivantes, C1. Royer sera également la première femme en 1870 à entrer à la
+
+2 Charles Darwin : La Vie d’un naturaliste, p.103.
+
+3 Darwin Correspondence Project. Lettre n° 3715. URL : http://www.darwinproject.ac.uk/DCP-
+LETT-3715 [consultée le 19/02/2019]. « Toutefois, poursuit-il, l’éducation semi-masculine
+qu’elle s’est donnée à force de travail a été puisée avant tout à une école philosophique exclu-
+sivement déductive et sa manière de penser s’en ressent. »
+
+4 Voir Joy Harvey : “Almost a Man of Genius”. Clémence Royer, Feminism, and Nineteenth-
+Century Science. New Brunswick/Londres : Rutgers University Press 1997, et Claude Blanckaert :
+Royer Clémence. In : Patrick Tort (éd.) : Dictionnaire du darwinisme et de l’évolution. Paris :
+PUF 1996, p. 3744-3749. Membre d’un certain nombre de sociétés féministes aux débats des-
+quelles elle participe activement sur la fin de sa vie, adoptant la cause des femmes plutôt que
+féministe, Clémence Royer s'oppose curieusement à leur droit de vote. Ni militante ni suffra-
+gette, elle n’est pas une nouvelle Flora Tristan allant dans les usines ou les prisons. Elle de-
+meure dans les abstractions et ne descendra jamais dans la rue. Voir aussi Nelly Roussel :
+Clémence Royer. In : La libre pensée internationale, 16 mars 1912, non paginé.
+
+Flourens lecteur de Darwin (ou de Clémence Royer?) —— 63
+
+Société d'anthropologie de Paris — et la seule pendant les quinze années qui
+suivent - grâce au soutien de Paul Broca.°
+
+La traduction que donne CI. Royer du livre de Darwin, d’après sa troisième
+édition anglaise parue en avril 1861, ne laisse personne indifférent en France.
+D'abord parce qu’elle l’introduit par une « terrible » préface (60 pages), selon le
+mot d’un de ses contemporains, où elle tire des idées de Darwin des conclu-
+sions politiques, économiques, sociales et morales que lui-même exprimera,
+mais plus tard, notamment dans The Descent of Man (1871), et de manière
+moins radicale qu’elle? Et ensuite par les choix de traduction qu’elle opère tout
+au long de l’ouvrage. Dans sa lettre à Darwin du 6 septembre 1862, Claparède,
+qui semble avoir épaulé C1. Royer dans son entreprise, ne cache pas son embar-
+ras. Il vaut la peine de la citer dans son ensemble :
+
+[....] j'ai regretté de voir votre ouvrage traduit par cette personne pour laquelle je professe
+d’ailleurs beaucoup d’estime. Sa traduction est lourde, indigeste, parfois incorrecte et les
+notes qui l’accompagnent ne seront certainement point de votre goût. J'ai usé de toute
+mon influence auprès de M'°. Royer pour la décider à se borner au simple rôle de traduc-
+teur, mais mes efforts n’ont pas été couronnés de succès. Je dois dire cependant à l’éloge
+de M!°. Royer qu’elle a supprimé sans exception toutes les notes que j'ai qualifiées d’ab-
+surdes et de contre sens scientifiques. En revanche elle en a imprimé un très grand
+nombre (la majeure partie de celles qui illustrent [sa] traduction) qui ne m’avaient point
+été soumises. [...] Elle avait imaginé, en traduisant votre ouvrage, d’y introduire des
+
+5 Claude Blanckaert : « Les bas-fonds de la science française ». Clémence Royer, l’origine de
+l'Homme et le darwinisme social. In : Bulletins et Mémoires de la Société d'anthropologie de
+Paris, Nouvelle série 3, 1-2 (1991), p. 115-130.
+
+6 Charles Letourneau : Clémence Royer. - Discours prononcé par M. Ch. Letourneau, au nom
+de la Société d’anthropologie, au banquet offert le 10 mars 1897 à M"° Clémence Royer. In :
+Revue mensuelle de l’École d’anthropologie de Paris 7, 1 (1897), p. 124-126 (p. 124). Letourneau
+était le secrétaire général de la Société d’anthropologie de Paris.
+
+7 Clémence Royer écrit ainsi que « la loi d’élection naturelle appliquée à l’humanité, fait voir
+avec surprise, avec douleur, combien jusqu'ici ont été fausses nos lois politiques et civiles,
+de même que notre morale religieuse. Il suffit d’en faire ressortir ici l’un des moindres vices :
+c’est l’exagérati>n de cette pitié, de cette charité, de cette fraternité, où notre ère chrétienne a
+toujours cherché l’idéal de la vertu sociale ; c’est l’exagération du dévouement lui-même, quand
+il consiste à sacrifier toujours et en tout ce qui est fort à ce qui est faible, les bons aux mauvais,
+les êtres bien doués d’esprit et de corps aux êtres vicieux et malingres. Que résulte-t-il de cette
+protection exclusive et inintelligente accordée aux faibles, aux infirmes, aux incurables,
+aux méchants eux-mêmes, à tous les disgraciés de la nature ? C’est que les maux dont ils sont
+atteints tendent à se perpétuer et à se multiplier indéfiniment ; c’est que le mal augmente au
+lieu de diminuer, et qu’il tend à s’accroître aux dépens du bien. » (Clémence Royer : Préface du
+traducteur. In : Charles Darwin : De l’origine des espèces. Paris : Guillaumin et Cie et Victor Mas-
+son et fils 1862, p. LvI.) Pour Clémence Royer, la théorie de Darwin fournit une base scientifique
+pour une théorie sociale.
+
+64 —— Pascal Duris
+
+corrections de son propre chef, corrections qui vous auraient étrangement et désagréable-
+ment surpris. J'ai cependant réussi à la détourner de cette manière de faire en lui mon-
+trant que {c'était ?| manquer de délicatesse à votre égard. - [La] nature de ces corrections
+était vraiment int{é|ressante en montrant combien les méthodes d’un esprit comme celui
+de M'°, Royer sont opposées à la marche des Sciences naturelles. [...] [OJuelqu’imparfaite
+que soit donc la traduction d[e] M"°. Royer, quelque déplacées que soient certaines par-
+ties de sa préface et de ses notes, je m’applaudis cependant d’avoir empêché qu’elle défi-
+gurât plus complètement votre œuvre. Mais si le grand ouvrage sur les espèces dont vous
+nous annoncez la publication pour un avenir un peu éloigné vient, comme je l’espère, à
+être publié, je lui souhaite un traducteur plus versé dans les sciences naturelles et moins
+désireux de faire remarquer sa propre person{nJalité !®
+
+Les vices de la traduction publiée par CI. Royer sont nombreux, et S. J. Miles, qui
+en a fait une étude détaillée il y a quelques années, les classe en trois ensembles
+qu’il faut rappeler pour comprendre les réactions des premiers lecteurs français.?
+Il y a d’abord les erreurs pures et simples de traduction, parmi lesquelles elle
+distingue d’une part les omissions de morceaux plus ou moins longs de phrases
+et les erreurs de transcription, de chiffres notamment, corrigées pour la plupart
+dans les éditions ultérieures, et d’autre part la traduction inexacte de certains
+mots (« score », par exemple, qu’il faut rendre par « vingtaine ») ou de certaines
+tournures idiomatiques. Un des choix les plus contestés en la matière fait par
+CL Royer est, par exemple, celui de traduire le concept central chez Darwin de
+« natural selection » par « élection naturelle », nous allons y revenir. Dans
+ce même registre, N. Wanlin a montré que CI. Royer affadit presque toujours les
+quelques images poétiques qui échappent à la plume de Darwin.!° Il y a ensuite
+la réécriture de certaines phrases ou de certains passages, rendue indispensable,
+selon la traductrice, par la lourdeur et l’obscurité, à vrai dire indiscutables, du
+style de Darwin. Mais là où C1. Royer s’écarte le plus de la pensée du naturaliste
+anglais, c’est dans sa manière de la franciser en présentant comme des faits posi-
+tifs des idées avancées par lui avec beaucoup plus de prudence. Elle gomme les
+doutes, les réserves et autres hésitations de Darwin aux propos duquel, ce fai-
+sant, elle donne un caractère beaucoup plus affirmé. Cette manière d’écrire se
+retrouve dans les développements philosophiques personnels qu’elle introduit
+dans le texte original sous la forme de notes infrapaginales et dont le style,
+
+8 Darwin Correspondence Project. Lettre n° 3715. URL : http://www.darwinproject.ac.uk/DCP-
+LETT-3715 [consultée le 19/02/2019]. L'Origine des espèces devait être la première de trois par-
+ties consacrées à la sélection naturelle. Mais l’œuvre complète ne verra jamais le jour.
+
+9 Sara Joan Miles : Clémence Royer et De l’Origine des espèces : traductrice ou traîtresse ? In :
+Revue de synthèse, IV° Série 1 (1989), p. 61-83.
+
+10 Nicolas Wanlin : La poétique évolutionniste, de Darwin et Haeckel à Sully Prudhomme et
+René Ghil. In : Romantisme. Revue du xIX° siècle 154, 4 (2011), p. 91-104.
+
+Flourens lecteur de Darwin (ou de Clémence Royer?) —— 65
+
+marqué par le positivisme, tranche avec celui plus hypothético-déductif de
+Darwin. En cela, l’entreprise de CI. Royer, qui rencontre un écho considérable
+par le scandale qu’elle provoque, relève davantage de la création littéraire que
+de la « simple » traduction. De manière symptomatique, un contemporain
+parle d’ailleurs de cette traduction comme du « livre de Darwin et de M”°
+CI. Royer ».! Ces choix contestables de traduction, il est un auteur qui va les
+exploiter à fond : Pierre Flourens.
+
+2 Une affaire de mots
+
+Sans qu’il soit possible de comprendre pourquoi, compte tenu des critiques
+qu’elle a soulevées dès sa parution, c’est par l'intermédiaire de la traduction de
+1862 de CI. Royer que Pierre Flourens (1794-1867), figure de la physiologie ex-
+périmentale française et secrétaire perpétuel de l’Académie des sciences de
+Paris, prend connaissance des détails de la théorie de Darwin.”? Cette dernière
+suscite aussitôt chez lui une franche hostilité dont il livre les motifs dans une
+série de trois articles publiés dans le Journal des savants, en octobre, novembre
+et décembre 1863. Flourens les réunira au début de l’année suivante, en 1864,
+avec d’autres contributions, dans un livre intitulé simplement Examen du livre
+de M. Darwin sur l’origine des espèces (vit + 171 pages).
+
+11 Selon Letourneau, « la publication du livre de Darwin et de M”* CI. Royer fut donc comme
+une explosion de vérité, et elle marquera pour la science le commencement d’une ère nou-
+velle. Dès le premier jour, une petite minorité de libres esprits s’y rallièrent avec enthou-
+siasme ; mais l’ouvrage fit surtout scandale [...]. Ce fut une levée de boucliers orthodoxes :
+aux réfutations de la science traditionnelle la religion joignit ses anathèmes ; la morale même
+poussa des cris d’orfraie. » (Charles Letourneau : Clémence Royer. - Discours prononcé
+par M. Ch. Letourneau, p. 125.)
+
+12 Miles assure que les membres de la communauté scientifique française « semblent pour la
+plupart avoir lu Darwin en anglais avant la traduction » (Sara Joan Miles : Clémence Royer et
+De l’Origine des espèces : traductrice ou traîtresse ?, p. 83). Dans le cas de Flourens, on doit en
+douter.
+
+13 Pierre Flourens : De l’origine des espèces, ou des lois du progrès chez les êtres organisés, par
+Ch. Darwin. In : Journal des savants, octobre 1863, p. 622-629 ; novembre 1863, p. 697-704 ;
+décembre 1863, p. 782-789. Bien que cela ne soit pas dit, nous ne serions pas surpris que ces
+trois morceaux, écrits un peu au fil de la plume et avec un certain désordre des idées, aient
+fait l’objet au préalable d’une lecture devant l’Académie. C’est d’ailleur' ce qu’assure Patrick
+Tort dans l’entrée « Flourens Pierre Marie Jean » de son Dictionnaire du darwinisme et de l’évo-
+lution. Paris : PUF 1996, p. 1697, mais en donnant une référence bibliographique fausse.
+
+14 Pierre Flourens : Examen du livre de M. Darwin sur l’origine des espèces. Paris : Garnier Frères
+1864. Flourens, qui présente son livre à l’Académie des sciences le 14 mars 1864 (voir Comptes
+
+66 —— Pascal Duris
+
+Ses principales critiques sont émises dès les premières pages en quelques
+phrases lapidaires qui ont le mérite de la clarté :
+
+L’ingénieux et savant auteur pense que l’espèce est muable. Malheureusement, il ne nous
+dit pas ce qu’il entend par espèce, et ne se donne aucun caractère sûr pour la définir.
+
+En second lieu, il voit très-bien la variabilité de l'espèce. Qui ne la voit pas ? Mais il
+ne voit pas la limite de cette variabilité ; et c’est précisément ce qu’il fallait voir.
+
+Enfin l’auteur se sert partout d’un langage figuré dont il ne se rend pas compte et
+qui le trompe, comme il a trompé tous ceux qui s’en sont servis.
+
+Là est le vice radical du livre. ©
+
+Le plan du livre s’impose alors de lui-même : « montrer que l’auteur fait illusion
+à lui-même, et peut-être aux autres, par un abus constant du langage figuré ; et
+[...] prouver que, contrairement à son opinion, l’espèce est fixe, et que, loin
+d’être venues les unes des autres, comme il le veut, les diverses espèces sont et
+restent éternellement distinctes. »!f À cette fin, Flourens divise son ouvrage en
+onze chapitres. Après avoir opposé un certain nombre d’objections à la théorie
+de l’évolution de Darwin dans les trois premiers (dont le contenu reprend exac-
+tement celui des trois articles parus dans le Journal des savants), il en déve-
+loppe plusieurs dans les huit autres chapitres à partir d'exemples concrets
+portant sur la variabilité des espèces (un chapitre), l’hybridation chez les végé-
+taux et les animaux (deux chapitres), la génération chez les insectes, les vers
+parasites et les infusoires (trois chapitres), ses propres expériences sur les métis
+(un chapitre) et celles de Pasteur sur la génération spontanée (un chapitre).
+Mais ici Darwin n’est présent qu’en filigrane.
+
+Les trois premiers chapitres du livre de Flourens, qui seuls justifient son
+titre, s’en prennent explicitement à l’œuvre de Darwin. À la manière d’un pro-
+cureur, faisant mine tantôt d’interpeller l’auteur, tantôt de prendre à témoin
+son lecteur, s’emportant à l’occasion (« Mais, pour Dieu ! laissons enfin tous
+ces raisonnements inutiles »),!” l’académicien y dénonce d’emblée d’un ton
+souvent théâtral (« Admirable naïveté ! » ; « Eh ! mon Dieu ! »), 8 alternative-
+ment ironique (« Après tant et de si belles choses, il s’arrête content et satis-
+fait »)!° ou condescendant (« Ce que c’est que de venir trop tard »),° la manière
+
+rendus hebdomadaires des séances de l’Académie des sciences 58 (1864), p. 489), n’y indique
+nulle part que les trois premiers chapitres sont repris textuellement du Journal des savants.
+
+15 Pierre Flourens : Examen, p. 1-2 (c’est Flourens qui souligne).
+
+16 Ibid., p. 5-6.
+
+17 Ibid., p. 31 (et aussi p. 59).
+
+18 Jbid., p. 55 et 56.
+
+19 Ibid. p. 58.
+
+20 Ibid., p. 47.
+
+Flourens lecteur de Darwin (ou de Clémence Royer?) —— 67
+
+qu’a Darwin de personnifier la Nature : « et c’est là tout le reproche que l’on
+vous fait », accuse Flourens.?! Certes, il n’est pas le premier, et, depuis l’Anti-
+quité, nombre d’auteurs ont prêté à cette Nature des sentiments ou des inten-
+tions proprement humains : elle a horreur du vide, elle ne fait rien en vain, on
+découvre ses lois, etc. Buffon, au xviI° siècle, qui a mis la nature à la place de
+Dieu, est un illustre prédécesseur en la matière. Ce discours est inacceptable
+pour Flourens qui fait sien celui de Cuvier — dont il a été l’élève — quand ce
+dernier considère « combien sont puérils les philosophes qui ont donné à la na-
+ture une espèce d’existence individuelle, distincte du Créateur, des lois qu’il a
+imprimées [Cuvier a écrit « imposées »] au mouvement et des propriétés ou des
+formes données par lui aux créatures, et qui l’ont fait agir sur les corps avec
+[Cuvier a écrit « comme avec »] une puissance et une raison particulières. »??
+Pour Flourens, « le xIx° ne fait plus de personnifications ».? S'y complaire, c’est
+retomber dans l’erreur du siècle précédent.
+
+Dans ce registre, ce qui pose problème à Flourens c’est avant tout l’ex-
+pression d’« élection naturelle » par laquelle Darwin semble littéralement
+donner à la nature un pouvoir d’élire comparable à celui de l’homme.” Dar-
+win ? ou plutôt Clémence Royer ? CI. Royer, bien sûr, qui traduit « natural se-
+lection » par « élection naturelle ». Elle n’est d’ailleurs pas la première.
+Claparède utilise déjà le syntagme dans une analyse enthousiaste de L’Origine
+des espèces qu’il publie en 1861 dans la Revue germanique.” C1. Royer n’est
+pas non plus la dernière puisque le traducteur italien de Darwin conservera le
+terme « elezione » par lequel est traduit « selection » en italien jusque dans
+les années 1890. Au vrai, « élection » est un terme utilisé à l’époque par les
+éleveurs quand il s’agit de choisir les meilleurs reproducteurs pour améliorer
+les animaux domestiques, c’est-à-dire dans le même contexte d’une sélection
+artificielle qui sert de référence à Darwin.
+
+21 Ibid., p. 10.
+
+22 Cité dans ibid., p. 4. La citation est extraite de Georges Cuvier : Nature. In : Dictionnaire des
+sciences naturelles [...]. Paris : Levrault et Le Normant 1816-1830, t. XXXIV, p. 261-268
+(p. 263).
+
+23 Pierre Flourens : Examen, p. 53 (c’est Flourens qui souligne).
+
+24 Ibid., p. 6.
+
+25 Édouard Claparède : M. Darwin et sa théorie de la formation des espèces. In : Revue germa-
+nique française et étrangère 16 (juillet-août 1861), p. 523-559 ; 17 (septembre-octobre 1861),
+p. 232-263.
+
+26 Thierry Hoquet : Darwin contre Darwin. Comment lire L'Origine des espèces ? Paris : Seuil
+2009, p. 76-77.
+
+68 —— Pascal Duris
+
+Flourens ne conteste pas qu’il existe une certaine variabilité au sein des es-
+pèces. En témoignent d’ailleurs les expériences récentes du botaniste Joseph
+Decaisne (1807-1882) sur les différentes variétés de poirier — dont il rappelle les
+résultats dans le chapitre 1v de son Examen -— qui, selon sa formule, a pris l’es-
+pèce « en flagrant délit de variation ».”’ L'homme peut choisir parmi ces varia-
+tions celles qui lui sont utiles et unir ensemble les individus qui les présentent
+pour créer de nouvelles races, comme chez les chiens ou les pigeons, et écarter
+les autres. Buffon, en son temps, a bien étudié la question, et Darwin n’y ajoute
+rien. Sauf que, selon ce dernier, l'élection naturelle aurait des effets beaucoup
+plus puissants que l’action de l’homme :
+
+On peut dire par métaphore, écrit Darwin, que l’élection naturelle scrute journellement, à
+toute heure et à travers le monde entier, chaque variation, même la plus imperceptible,
+pour rejeter ce qui est mauvais, conserver et ajouter tout ce qui est bon ; et qu’elle tra-
+vaille ainsi, insensiblement et en silence, partout et toujours, dès que l'opportunité s’en
+présente, au perfectionnement de chaque être organisé.?8
+
+« Ainsi, s’emporte Flourens, toujours des métaphores ! La nature choisit, la na-
+ture scrute, la nature travaille et travaille sans cesse, et travaille à quoi ?... à
+changer, à perfectionner, à transformer les espèces. La transformation
+des espèces est, dans le système de M. Darwin, le travail perpétuel de la na-
+ture. »” D’autres avant lui, déplore Flourens, comme Benoît de Maillet ou Jean-
+Baptiste-René Robinet, ont défendu des idées aussi « étranges ». Sur ce point,
+le transformiste Lamarck est bien le véritable « père » de Darwin”? et le fixiste
+Cuvier leur adversaire commun : « Il ne prend pas ces naturalistes au sérieux »,
+ose Flourens, en parlant de Cuvier, mort depuis 1832. Comme lui, il ne doute
+pas de la fixité des espèces : « Le règne animal d’Aristote était le règne animal
+d’aujourd’hui. »°?
+
+En définitive, pourquoi ce choix de traduire « natural selection » par « élec-
+tion naturelle », par lequel semblent s’expliquer nombre de malentendus à pro-
+pos de la théorie darwinienne ? D’autant qu’il ne durera pas longtemps puisque
+Clémence Royer, cédant à contrecœur aux instances de Darwin et de « la loi de
+
+27 Pierre Flourens : Examen, p. 75 (c’est Flourens qui souligne).
+
+28 Charles Darwin : De l’origine des espèces. Traduit par Clémence Royer. Paris : Guillaumin
+et Cie/Victor Masson et fils 1862, p. 120.
+
+29 Pierre Flourens : Examen, p. 12-13 (c’est Flourens qui souligne).
+
+30 Ibid., p. 15.
+
+31 Ibid., p. 18.
+
+32 Ibid., p. 23.
+
+Flourens lecteur de Darwin (ou de Clémence Royer ?) —— 69
+
+la majorité », remplacera « élection » par « sélection » dans la deuxième édition
+en 1866 de sa traduction.” Certains ont voulu y distinguer la volonté chez
+CL. Royer d’affirmer un point de vue téléologique. Maïs la « sélection » à la Dar-
+win a aussi été lue par ses adversaires comme relevant d’un choix intelligent et
+non comme une métaphore. Plus simplement, le mot français « sélection », em-
+prunté à l’anglais « selection », n’est utilisé à l’époque de CI. Royer que dans le
+domaine de la zootechnie où il désigne le choix d’animaux reproducteurs of-
+frant des caractères que l’éleveur souhaite perpétuer dans une variété, et il faut
+attendre 1878 pour que ce néologisme soit admis par l’Académie française.
+Quoi qu’il en soit, Flourens, qui dénonce le langage métaphorique darwinien,
+en reste au sens littéral du mot et y est résolument hostile. **
+
+Le concept darwinien de « concurrence vitale » ne suscite pas davantage
+l’adhésion de Flourens que celui d’élection naturelle. Il lui semble surtout que
+Darwin n’apporte aucun fait à l’appui d’une quelconque « mutabilité » des es-
+pèces : « Quelqu'un a-t-il jamais vu un poirier se changer en pommier, un
+mollusque se changer en insecte, un insecte en oiseau ? », demande Flou-
+rens.” La raison en est que Darwin ne s’astreint pas à définir précisément ni
+la variété ni l’espèce et qu’il ne distingue l’une de l’autre que par leur forme.
+Pour Flourens, comme pour Buffon au siècle précédent, la ressemblance for-
+melle n’est qu’un caractère accessoire au contraire de la fécondité qui est un
+caractère essentiel. L’âne ressemble davantage au cheval que le barbet au lé-
+vrier, et pourtant seuls les deux derniers appartiennent à la même espèce car
+ils peuvent se reproduire ensemble et avoir une descendance féconde. Il en va
+de même pour les « races » humaines. Contrairement à ce que dit Darwin, les
+variétés ne sont donc pas des espèces naïssantes, et tous les animaux ne des-
+cendent pas tous graduellement d’un unique prototype. Sinon, pourquoi ne
+trouve-t-on pas de formes intermédiaires parmi les fossiles ? À contrario,
+
+33 Clémence Royer : Avant-propos. In : Charles Darwin : De l’origine des espèces, etc., Paris :
+Victor Masson et fils/Guillaumin et Cie 1866, p. x1-xmi et aussi p. 95, n. 1. Selon Miles, Clé-
+mence Royer opère ce changement « afin d’être conséquente avec l’usage de la communauté
+scientifique française, surtout l’Académie des sciences et P.-J.-M. Flourens, qui, connaissant
+les éditions anglaises de Darwin, préféraient l’emploi de l’anglicisme » (Sara Joan Miles : Clé-
+mence Royer et De l’Origine des espèces : traductrice ou traîtresse ?, p. 65). C’est difficile à
+croire.
+
+34 Au chapitre v de son Examen, il cite le botaniste français Charles Naudin (1815-1899) qui
+parle pourtant de « sélection artificielle » des végétaux (Pierre Flourens : Examen, p. 99).
+
+35 Ibid., p. 31-32 ; et aussi p. 53 : « nous n’avons jamais vu un animal domestique se transfor-
+mer en un autre : un cheval, en bœuf ; une brebis, en chèvre, etc. ».
+
+70 —— Pascal Duris
+
+comment se fait-il que les espèces soient toujours bien distinctes les unes des
+autres ?
+
+Si toutes les espèces vivant aujourd’hui proviennent d’un même ancêtre,
+comment celui-ci est-il apparu ? C’est la question de fond. Pour Flourens, il n’y a
+que deux origines possibles : soit par génération spontanée, soit de la main de
+Dieu. Pour les besoins de leurs différents systèmes, Buffon, Lamarck, Étienne
+Geoffroy Saint-Hilaire, ont eu recours à la génération spontanée. Mais depuis les
+expériences toutes récentes de Pasteur, préparées par celles de Redi en 1668,
+auxquelles Flourens consacre ses chapitres VII, VIIL, IX et XI, plus personne ne croit
+à la génération spontanée : « Ce que c’est que de venir trop tard », commente,
+triomphant, l’académicien, à l’intention de Darwin.” Reste la main de Dieu, que
+Darwin ne saisit évidemment pas. Son système se trouve donc privé de tout
+commencement, et d’origine des espèces, il n’en est question que dans le titre de
+son livre.8
+
+Le tribun Flourens ne peut s'empêcher de conclure son réquisitoire contre
+le livre de Darwin sans donner de la voix une dernière fois :
+
+On ne peut qu'être frappé du talent de l’auteur. Mais que d’idées obscures, que d'idées
+fausses ! Quel jargon métaphysique jeté mal à propos dans l’histoire naturelle, qui tombe
+dans le galimatias dès qu’elle sort des idées claires, des idées justes. Quel langage préten-
+tieux et vide ! Quelles personnifications puériles et surannées ! O lucidité ! O solidité de
+l’esprit français, que devenez-vous ?*?
+
+Comme on le voit, Flourens ne songe pas à accuser Clémence Royer, dont le
+nom ne figure nulle part dans son texte (sauf, bien sûr, quand il donne la réfé-
+rence bibliographique complète de la traduction), “° des vices dont il accable la
+langue de Darwin. Jamais le travail de la traductrice n’est mis en question. Tout
+se passe chez lui comme si Darwin avait écrit son œuvre directement en fran-
+çais. Lecteur de C1. Royer, Flourens croit l’être seulement de Darwin. Pour les
+anti-darwiniens de la première heure, CI. Royer disparaît entièrement derrière
+Darwin. À plus forte raison ne trouve-t-on sous la plume de Flourens la moindre
+allusion à sa préface incendiaire ou à ses notes, comme s’il en ignorait presque
+
+36 Sur Redi, voir Pascal Duris : L’introuvable révolution scientifique. Francesco Redi et la gé-
+nération spontanée. In : Annals of Science 67, 4 (2010), p. 431-455.
+
+37 Pierre Flourens : Examen, p. 47.
+
+38 Flourens évoque aussi rapidement dans son Examen la question de l'instinct : « C’est ici le
+comble », prévient-il (ibid., p. 53). Darwin pense qu’il résulte de petites conséquences contingentes
+retenues par le jeu de l'élection naturelle alors que lui considère au contraire qu’il est inné.
+
+39 Ibid., p. 65.
+
+40 Ibid., p. VI, n. 2 (Avertissement).
+
+Flourens lecteur de Darwin (ou de Clémence Royer?) = 71
+
+l’existence. La responsabilité de C1. Royer dans le rejet initial de L’Origine des
+espèces par les savants français“! n’est pointée du doigt par personne.
+
+3 Conclusion
+
+« Que reste-t-il aujourd’hui de tout ce bruit ? », se demande un contemporain. *?
+Quels enseignements tirer de la lecture de Darwin (ou de son « audacieuse tra-
+ductrice et préfacière »)* par Flourens ?
+
+Notre étude montre en premier lieu que traduire une somme aussi riche de
+concepts novateurs et d’une vision inédite du monde que celle de Darwin ex-
+pose l’auteur, davantage que son traducteur, à des malentendus.“ L'entreprise
+impose des choix, révèle des a priori, témoigne d’interprétations. Les difficultés
+commencent d’ailleurs dès le titre, comme l’a montré Th. Hoquet.“ Clémence
+Royer choisit ainsi en 1862 de rendre le sous-titre du livre de Darwin : The Pre-
+servation of Favoured Races in the Struggle for Life par : Des lois du progrès chez
+les êtres organisés. Pour elle, la théorie darwinienne amène logiquement à
+l’idée de progrès. « Je crois au progrès », tels sont d’ailleurs les derniers mots
+de sa préface de 1862.“ Plus largement, l’arrivée de la théorie de l’évolution sur
+la scène scientifique s’accompagne d’un lexique nouveau qu’il importe de bien
+définir et... traduire en français. Par exemple, Flourens oppose les espèces « im-
+muables », ou « fixes », aux espèces « muables » de Darwin. Or aucun de ces
+trois qualificatifs n’a encore d’acception biologique à cette époque. Il en va
+de même quand Flourens parle de la « mutabilité » des espèces darwiniennes.
+
+41 Sur les raisons de la réception glaciale de Darwin en France, voir par exemple John Farley :
+The Initial Reactions of French Biologists to Darwin’s Origin of Species. In : Journal of the His-
+tory of Biology 7, 2 (1974), p. 275-300 ; Yvette Conry : L’Introduction du darwinisme en France
+au xIx° siècle. Paris : Vrin 1974.
+
+42 Charles Letourneau : Clémence Royer. - Discours prononcé par M. Ch. Letourneau, p. 125.
+43 Ibid.
+
+44 Sur les difficultés propres à la traduction d’une œuvre scientifique, voir Pascal Duris (éd.) :
+Traduire la science. Hier et aujourd’hui. Pessac : Publications de la Maison des Sciences de
+l'Homme d’Aquitaine 2008 ; Sylvie Vandaele : La recherche traductologique dans les domaines
+de spécialité : un nouveau tournant. In : Meta 60, 2 (2015), p. 209-237 ; Annals of Science 73, 2
+(2016) (numéro spécial intitulé Translating and Translations in the History of Science). Sur le
+cas particulier de l’anglais de spécialité, voir David Banks : Diachronic Aspects of ESP [English
+for Specific Purposes]. In : ASp : la revue du GERAS 69 (2016), p. 97-112.
+
+45 Thierry Hoquet : Dialectique ou le prisme des traductions : On the Origin of Species. In :
+Darwin contre Darwin, p. 61-94.
+
+46 Clémence Royer : Préface du traducteur, p. LXIV.
+
+72 —— Pascal Duris
+
+Seuls les termes « fixité » et « variabilité » ont acquis leur signification biolo-
+gique actuelle : le premier « se dit de la permanence des caractères dans les
+espèces. Variétés purement individuelles et sans fixité » (Littré) et le second dé-
+signe la « propriété de présenter des variétés », comme dans « variabilité des
+espèces » (Littré).
+
+Surtout, la lecture que fait Flourens de Darwin nous en apprend beaucoup
+sur lui et l'institution dont il est le secrétaire perpétuel à partir de 1833, confor-
+mément à un souhait de Cuvier auquel il succède. Un des biographes récents
+de Flourens, dont il faut rappeler qu’il est aussi professeur au Muséum national
+d'histoire naturelle et au Collège de France, membre de l’Académie française —
+il y est élu en 1840 contre Victor Hugo -— et grand connaisseur de l’histoire des
+sciences du vivant, écrit, sans autre développement, que « [hlis most reproach-
+able error was his criticism of Darwin’s work (1864) ».*” Mais c’est passer un
+peu rapidement sur ses attaques véhémentes contre le naturaliste anglais.“8
+Fondé sur une lecture littérale, hâtive, de L’Origine des espèces, le livre de Flou-
+rens est un témoignage accablant de l’aveuglement scientifique d’un homme
+(et aussi d’une institution) disposant pourtant de tous les éléments d’informa-
+tion nécessaires à une évaluation correcte de l’œuvre darwinienne. Fixiste
+convaincu, partisan de Cuvier (mais il sait à l’occasion faire appel aussi à Buf-
+fon), il rejette les théories de Lamarck et de Darwin parce qu’il refuse de voir
+que les phénomènes qu’elles décrivent nécessitent de très longues périodes de
+temps. De mémoire de rose on n’a jamais vu mourir un jardinier, disait déjà
+Fontenelle. « Oh ! qu’elle est grande, l’antiquité du globe terrestre ! », s’exclame
+Lamarck, comme en écho, « et combien sont petites les idées de ceux qui attri-
+buent à l’existence de ce globe une durée de six mille et quelques cents ans,
+depuis son origine jusqu’à nos jours ! »“° Il n’est pas surprenant dans ces condi-
+tions que l’Académie des sciences n’élise Darwin correspondant pour la section
+de botanique qu’en 1878, après l’avoir refusé une première fois en 1870. Peu-
+têtre faut-il voir dans cette hostilité à l'encontre de la théorie de l’évolution l’une
+des manifestations du déclin de notre science nationale au milieu du xIx° siècle.
+Encore que, à en croire Flourens lui-même, qui ne peut se défendre à plusieurs
+reprises dans son texte d’une certaine admiration pour Darwin, le livre de ce
+
+47 Vladislav Kruta : Flourens, Marie-Jean-Pierre. In : Charles Coulston Gillispie (éd.) : Dictio-
+nary of Scientific Biography. New York : Charles Scribner’s Sons 1981, t. V, p. 44-45 (p. 45).
+
+48 Letourneau rapporte que « la science officielle lui [Darwin] fut résolument hostile et sou-
+vent avec une suffisance et une risible outrecuidance, dont un article, publié alors dans le
+Journal des savants et signé Flourens, donne la mesure » (Charles Letourneau : Clémence
+Royer. — Discours prononcé par M. Ch. Letourneau, p. 125).
+
+49 Jean-Baptiste Lamarck : Hydrogéologie. Paris : Agasse/Maillard an X (1801-1802), p. 88.
+
+Flourens lecteur de Darwin (ou de Clémence Royer?) = 73
+
+dernier « a déjà, pour lui, presque tout le monde [et] est devenu l’objet d’un en-
+gouement général ».°°
+
+En Angleterre, les réactions de Darwin et de ses amis proches au livre de
+Flourens témoignent toutes d’un profond mépris à l’encontre de l’académicien.
+Darwin, qui connaît bien ses travaux, notamment ceux sur l'instinct animal,
+parle d’un livre « in grand style » et ennuyeux, ainsi qu’il l'écrit à Joseph D. Hoo-
+ker le 19 avril 1864 et à Alfred R. Wallace le 15 juin.” Asa Gray, de son côté, traite
+Flourens de « vieille mémé » (« old granny ») dans une lettre qu’il adresse à Dar-
+win le 5 décembre de la même année.*? Quant à Thomas H. Huxley, indigné par
+la suffisance de Flourens et son manque de respect à l’égard du travail comme
+de la personne de Darwin, il répond point par point à ses attaques dans une re-
+cension de son Examen qu’il publie en 1864 dans The Natural History Review,” à
+la plus grande satisfaction du naturaliste anglais (« by Jove how well you have
+done it »).°*
+
+C’est d’abord le ton supérieur qu’emploie Flourens avec Darwin (« as the
+first Napoleon would have treated an ‘ideologue” », écrit-il),*” à la limite du ri-
+dicule et de l’impolitesse, qu’il dénonce. Comme lorsque le premier assène
+au second un « Je vous ai déjà dit que vous vous trompiez », que Huxley tra-
+duit en ces termes : « Je vous ai déjà dit : moi, M. le Secrétaire perpétuel de
+l'Académie des Sciences ; et vous / « Qui n’êtes rien, / Pas même Académi-
+cien. » »°° Dépourvus en Angleterre des bienfaits d’une académie, nous n’avons
+pas l’habitude de voir nos meilleurs savants traités de la sorte, même par un
+« Secrétaire perpétuel », commente sèchement Huxley. Mais ce qui lui paraît
+incroyable (« incredible »), c’est que Flourens écarte toute influence soit
+
+50 Pierre Flourens : Examen, p. 48 et 64.
+
+51 Darwin Correspondence Project. Lettre n° 4468. URL : http://www.darwinproject.ac.uk/
+DCP-LETT-4468 [consultée le 19/02/2019] : « Flourens has just published a book apparently
+pitching into me. in grand style ». Darwin Correspondence Project. Lettre n° 4535. URL : http://
+www.darwinproject.ac.uk/DCP-LETT-4535 [consultée le 19/02/2019] : « A great gun Flourens
+has written a little dull book against me; which pleases me much for it is plain that our good
+work is spreading in France. »
+
+52 Darwin Correspondence Project. Lettre n° 4699. URL : http://www.darwinproject.ac.uk/
+DCP-LETT-4699 [consultée le 19/02/2019] (c’est Gray qui souligne).
+
+53 [Thomas H. Huxley :] Criticisms on « The Origin of Species ». In: The Natural History Re-
+view. À Quarterly Journal of Biological Science 16 (octobre 1864), p. 566-580 (p. 576-580).
+
+54 Lettre du 3 octobre 1864 : Darwin Correspondence Project. Lettre n° 4624. URL : http://
+www.darwinproject.ac.uk/DCP-LETT-4624 [consultée le 19/02/2019] : « Old Flourens was
+hardly worth the powder & shot; but how capitally you bring in about the Academician ».
+
+55 [Thomas H. Huxley :] Criticisms on « The Origin of Species », p. 576.
+
+56 Pierre Flourens : Examen, p. 57 et [Thomas H. Huxley :] Criticisms on « The Origin of Spe-
+cies », p. 576 (c’est Huxley qui souligne).
+
+74 —— Pascal Duris
+
+favorable soit néfaste du milieu (nature du sol, climat, etc.) sur les organismes
+vivants, laquelle détermine pourtant leur multiplication ou leur extinction, et
+qu’il rejette la variabilité naturelle des organismes qui fait que certains d’entre
+eux vont mieux résister que d’autres aux conditions extérieures et donc pros-
+pérer au détriment de ces derniers. Autant d'observations qui fondent la théo-
+rie de l’évolution de Darwin mais que Flourens ne semble pas comprendre.”
+« O lucidité ! O solidité de l’esprit français, que devenez-vous ? », s’exclame
+Huxley en retournant à Flourens ses propres interrogations. Au total, la langue
+de Flourens est tellement grotesque (« preposterous »), les arguments qu’il op-
+pose à Darwin tellement éculés (« of the old sort »), qu’il vaudrait mieux les
+passer sous silence. Autant de critiques qui, on s’en doute, n’empêchent pas le
+livre de Flourens de trouver des soutiens parmi les anti-évolutionnistes anglais
+comme en témoigne la traduction de ses trois premiers chapitres figurant en
+appendice de celui du médecin Charles R. Bree (1811-1886), An Exposition of
+Fallacies in the Hypothesis of Mr. Darwin, paru en 1872.°°
+
+Mais ici encore, comme en France, on voit que Clémence Royer n’est pas
+d’abord publiquement tenue pour responsable des réactions hostiles de la
+communauté scientifique française à l’encontre de la théorie de Darwin.
+Quelques jours après la sortie de la traduction française, celui-ci voit en
+C1. Royer la femme la plus intelligente et en même temps la plus bizarre d’Eu-
+rope (« one of the cleverest & oddest women in Europe »).*° Son ami Hooker
+pense même que la traduction devrait convaincre certains savants français
+
+57 Remarquons ici que les développements de Flourens contre l'élection naturelle en tant
+qu’élection et non pas de sélection, qui n’ont de sens qu’en français (ou en italien), ne sont
+pas commentés par Huxley. On trouve aussi sous sa plume un parallèle entre le mécanisme de
+la sélection naturelle « inconsciente » et celui de la formation des dunes autour du bassin
+d'Arcachon (ibid., p. 578).
+
+58 Charles Robert Bree : An Exposition of Fallacies in the Hypothesis of Mr. Darwin. Londres :
+Longmans, Green and Co 1872, p. 395-412.
+
+59 Lettre de Darwin à Asa Gray du 10-20 juin 1862 : Darwin Correspondence Project. Lettre
+n° 3595. URL : http://www.darwinproject.ac.uk/DCP-LETT-3595 [consultée le 19/02/2019].
+Et Darwin de poursuivre : « [...] is ardent Deist & hates Christianity, & declares that natural
+selection & the struggle for life will explain all morality, nature of man, politicks &c &c!!!. She
+makes some very curious & good hits, & says she shall publish a book on these subjects, & a
+strange production it will be. » Voir aussi sa lettre à Armand de Quatrefages du 11 juillet 1862 :
+«I wish the Translator had known more of Natural History; she must be a clever, but singular
+Lady; but I never heard of her, till she proposed to translate my Book. » (Darwin Correspon-
+dence Project. Lettre n° 3653. URL : http://www.darwinproject.ac.uk/DCP-LETT-3653 [consultée
+le 19/02/2019]).
+
+Flourens lecteur de Darwin (ou de Clémence Royer?) = 75
+
+réticents (Ch. Naudin et J. Decaisne notamment).®° Ce n’est que peu à peu que
+
+les darwiniens rendent CI. Royer, sa préface avant tout, sa traduction et ses
+notes dans une moindre mesure, responsables du mauvais accueil du livre en
+France. Le 22 août 1867, Darwin écrit en ce sens à son ami géologue Charles
+Lyell, tout en continuant à reconnaître les qualités intellectuelles de sa tra-
+ductrice.$! Mais dans une lettre qu’il envoie le 23 octobre 1869 à Jean-Jacques
+Moulinié (1830-1872), auteur en 1872 d’une nouvelle traduction française de
+son livre, Darwin accable la préface de Clémence Royer de tous les maux.°?
+Quelques jours plus tard, quand il écrit à son éditeur anglais, il la qualifie dé-
+sormais de « blasphématoire ».* Peut-être doit-on voir dans ces points de vue
+peu amènes l'illustration que, comme l’assure en 1867 le médecin suisse Carl
+Vogt à Darwin, la France est le pire marché que l’on puisse imaginer pour les
+livres scientifiques et que seuls les romans et les manuels pour les établisse-
+ments scolaires s’y vendent.“
+
+60 Lettre de Hooker à Darwin du 24 janvier 1863 : Darwin Correspondence Project. Lettre n° 3940.
+URL : http://www.darwinproject.ac.uk/DCP-LETT-3940 [consultée le 19/02/2019] : « both have
+much curious matter, but neither appreciate your book as they should, & will when they read it in
+its french garb I hope. »
+
+61 Darwin Correspondence Project. Lettre n° 5612. URL : http://www.darwinproject.ac.uk/DCP-
+LETT-5612 [consultée le 19/02/2019] : « The introduction was a complete surprize to me, &I
+dare say has injured the book in France; nevertheless with all its bad judgment & taste it
+shews I think that the woman is uncommonly clever. »
+
+62 Darwin Correspondence Project. Lettre n° 6955. URL : http://www.darwinproject.ac.uk/
+DCP-LETT-6955 [consultée le 19/02/2019] : «I sh{. much wish for a new Edition of the Origin in
+France, not including Mad°!° Royer’s Preface (with a second one made as injurious to me as
+she could) & which first Preface I have been assured has injured the circulation in France. »
+
+63 Lettre de Darwin à Murray du 8 novembre 1869 : Darwin Correspondence Project. Lettre
+n° 6977. URL : http://www.darwinproject.ac.uk/DCP-LETT-6977 [consultée le 19/02/2019] :
+« one blasphemous preface, & a second preface abusive of myself ». Il utilise le même mot
+dans une lettre à Hooker en date du 19 novembre de la même année : Darwin Correspon-
+dence Project. Lettre n° 6997. URL : http://www.darwinproject.ac.uk/DCP-LETT-6997
+[consultée le 19/02/2019] : « Besides her enormously long & blasphemous preface to 1°!
+Edit, she has added a 2° Preface, abusing me like a pick-pocket for pangenesis, which of
+course has no relation to the Origin. »
+
+64 Lettre du 23 avril 1867 à Darwin : Darwin Correspondence Project. Lettre n° 5512. URL :
+http://www.darwinproject.ac.uk/DCP-LETT-5512 [consultée le 19/02/2019]. Une étude récente
+sur la traduction en français de l’œuvre du très darwinien Thomas H. Huxley, dont nous avons
+parlé plus haut, montre qu’elle n’a pas du tout connu les mêmes avanies que celle de Darwin.
+Huxley remercie même généralement ses traducteurs dans ses préfaces (voir Jean-Charles Ges-
+lot : L'édition française à l’heure de la science anglaise dans la deuxième moitié du xIx° siècle :
+Thomas Henry Huxley. In : Philosophia Scientiæ 22, 1 (2018), p. 63-80).
+
+76 —— Pascal Duris
+
+Bibliographie
+
+Annals of Science 73, 2 (2016) (numéro spécial intitulé Translating and Translations in the
+History of Science).
+
+Banks, David : Diachronic Aspects of ESP [English for Specific Purposes]. In : ASp : la revue du
+GERAS 69 (2016), p. 97-112.
+
+Blanckaert, Claude : « Les bas-fonds de la science française ». Clémence Royer, l’origine de
+l'Homme et Le darwinisme social. In : Bulletins et Mémoires de la Société d’anthropologie
+de Paris, Nouvelle série 3, 1-2 (1991), p. 115-130.
+
+Bree, Charles Robert : An Exposition of Fallacies in the Hypothesis of Mr. Darwin. Londres :
+Longmans, Green and Co 1872, p. 395-412.
+
+Claparède, Édouard : M. Darwin et sa théorie de la formation des espèces. In : Revue
+germanique française et étrangère 16 (juillet-août 1861), p. 523-559 ;
+17 (septembre-octobre 1861), p. 232-263.
+
+Conry, Yvette : L’Introduction du darwinisme en France au xX° siècle. Paris : Vrin 1974.
+
+Cuvier, Georges : Nature. In : Dictionnaire des sciences naturelles [...]. Paris : Levrault/Le
+Normant 1816-1830, t. XXXIV, p. 261-268.
+
+Darwin, Charles : De l’origine des espèces. Traduit par Clémence Royer. Paris : Guillaumin et
+Cie/Victor Masson et fils 1862.
+
+Darwin, Charles : La Vie d’un naturaliste à l’époque victorienne. Traduit par Jean-Michel Goux.
+Paris : Belin 1987 [version originale anglaise : 1958].
+
+Darwin Correspondence Project. URL : http://www.darwinproject.ac.uk.
+
+Duris, Pascal (éd.) : Traduire la science. Hier et aujourd’hui. Pessac : Publications de la
+Maison des Sciences de l'Homme d’Aquitaine 2008.
+
+Duris, Pascal : L’introuvable révolution scientifique. Francesco Redi et la génération
+spontanée. In : Annals of Science 67, 4 (2010), p. 431-455.
+
+Farley, John : The Initial Reactions of French Biologists to Darwin’s Origin of Species. In :
+Journal of the History of Biology 7, 2 (1974), p. 275-300.
+
+Flourens, Pierre : De l'origine des espèces, ou des lois du progrès chez les êtres organisés, par
+Ch. Darwin. In : Journal des savants, octobre 1863, p. 622-629 ; novembre 1863,
+p. 697-704 ; décembre 1863, p. 782-789.
+
+Flourens, Pierre : Examen du livre de M. Darwin sur l’origine des espèces. Paris : Garnier
+Frères 1864.
+
+Geslot, Jean-Charles : L'édition française à l'heure de la science anglaise dans la deuxième
+moitié du xIx° siècle : Thomas Henry Huxley. In : Philosophia Scientiæ 22, 1 (2018),
+p. 63-80.
+
+Gillispie, Charles Coulston (éd.) : Dictionary of Scientific Biography. New York : Charles
+Scribner’s Sons 1981.
+
+Harvey, Joy : “Almost a Man of Genius”. Clémence Royer, Feminism, and Nineteenth-Century
+Science. New Brunswick/Londres : Rutgers University Press 1997.
+
+Hoquet, Thierry : Darwin contre Darwin. Comment lire L'Origine des espèces ? Paris : Seuil
+2009.
+
+[Huxley, Thomas H. :] Criticisms on “The Origin of Species”. In : The Natural History Review. A
+Quarterly Journal of Biological Science 16 (octobre 1864), p. 566-580.
+
+Lamarck, Jean-Baptiste : Hydrogéologie. Paris : Agasse/Maillard an X (1801-1802).
+
+Flourens lecteur de Darwin (ou de Clémence Royer?) = 77
+
+Letourneau, Charles : Clémence Royer. - Discours prononcé par M. Ch. Letourneau, au nom de
+la Société d'anthropologie, au banquet offert le 10 mars 1897 à M" Clémence Royer. In :
+Revue mensuelle de l’École d’anthropologie de Paris 7, 1 (1897), p. 124-126.
+
+Miles, Sara Joan : Clémence Royer et De l’Origine des espèces : traductrice ou traîtresse ? In :
+Revue de synthèse, IV° Série 1 (1989), p. 61-83.
+
+Roussel, Nelly : Clémence Royer. In : La libre pensée internationale, 16 mars 1912.
+
+Royer, Clémence : Préface du traducteur. In : Charles Darwin : De l’origine des espèces. Paris :
+Guillaumin et Cie/Victor Masson et fils 1862, p. V-LxIv.
+
+Tort, Patrick (éd.) : Dictionnaire du darwinisme et de l’évolution. Paris : PUF 1996.
+
+Vandaele, Sylvie : La recherche traductologique dans les domaines de spécialité : un nouveau
+tournant. In : Meta 60, 2 (2015), p. 209-237.
+
+Wanlin, Nicolas : La poétique évolutionniste, de Darwin et Haeckel à Sully Prudhomme et René
+Ghil. In : Romantisme. Revue du xX° siècle 154, 4 (2011), p. 91-104.
+
