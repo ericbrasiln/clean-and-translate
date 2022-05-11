@@ -1,0 +1,1486 @@
+Le traitement de la modalité épistémique
+dans les traductions françaises de
+On the Origin of Species de Charles Darwin
+
+EVE-MARIE GENDRON-PONTBRIAND
+Université de Montréal, Montréal, Canada
+eve-marie.gendron-pontbriand@umontreal.ca
+
+RÉSUMÉ
+
+Éminent naturaliste du XIX° siècle, Charles Darwin publie en 1859 ce qui s’avérera être un
+des textes les plus fondamentaux des sciences de la vie: On the origin of species by means
+of natural selection, or the preservation of favoured races in the struggle for life (ou OS). Cet
+ouvrage pose les assises conceptuelles de sa théorie de l'évolution (TE). Or, malgré la
+grande portée de l'œuvre, ses traductions en français restent largement inexplorées, en
+traductologie comme en histoire des sciences. Les quelques travaux antérieurs sur le sujet
+se sont concentrés sur les traductions de Clémence Royer, à qui l’on reproche d’avoir
+radicalisé la TE darwinienne en transformant la prudence de Darwin en certitude.
+Présentement, c'est pourtant la traduction d'Edmond Barbier (1876), et non celles de Royer,
+qui fait autorité; trois autres traducteurs, deux contemporains de Darwin et un moderne,
+se sont également attaqués à l'OS. Nous nous proposons donc de comparer ces différentes
+traductions, avec leur texte original, mais également entre elles, sur la base de marqueurs
+de modalité épistémique précis qui atténuent le degré de certitude d’un énoncé et qui sont
+très caractéristiques du style particulièrement précautionneux de Darwin. Nous voulons
+ainsi déterminer comment ces autres traducteurs ont rendu la modalité du texte anglais
+et montrons que la version la plus moderne est la plus proche de l'original. Enfin, de
+manière inattendue, la traduction de Royer, depuis longtemps décriée par la critique, se
+rapproche plus des traductions de Moulinié et de Barbier qu'on ne l'anticipait.
+
+ABSTRACT
+
+In 1859, prominent British naturalist Charles Darwin publishes On the origin of species by
+means of natural selection, or the preservation of favoured races in the struggle for life (or OS).
+In this book, Darwin introduces his theory of evolution (TE), which has been shrouded in
+controversy since its inception. Yet, despite the book’s profound impact on the world at
+large, its French translations have rarely been studied. The few existing studies have
+focussed on translations by Clémence Royer, a controversial translator infamous for having
+coopted Darwin's writings to serve a more radical agenda. But the fact remains that the
+canonical French translation of the OS is the one by Edmond Barbier, not Royer; three
+translators, two contemporary to Darwin and one modern, have also translated the book.
+Therefore, we aim to compare and contrast these various French translations with their
+original text and amongst each other on the basis of hedges, epistemic modality markers
+that attenuate the degree of certainty associated with a statement. We wish to determine
+how each translator has expressed epistemic modality in his/her text and show that the
+modern translation is closest to the original. Unexpectedly, Royer’s translation, long decried
+by critics, is closer to Moulinié’s and Barbier’s translations than previously anticipated.
+
+MOTS CLÉS/KEY WORDS
+
+rhétorique scientifique, modalité épistémique, modalité épistémique atténuatrice, anno-
+tation sémantique, traduction scientifique
+scientific rhetoric, epistemic modality, hedging, semantic annotation, scientific translation
+
+Meia, LXI, Hors série, 2016
+
+88 META, LXI, HORS SÉRIE, 2016
+
+Ignorance more frequently begets confidence than does knowledge: it is
+those who know little, not those who know much, who so positively
+assert that this or that problem will never be solved by science.
+
+(Darwin 1871:3)!
+
+1. Introduction
+
+Les textes scientifiques sont réputés être de simples vecteurs d’un contenu référentiel,
+impersonnels et objectifs (Olohan et Salama-Carr 2011: 179). Hyland (1999: iii)
+affirme au contraire que l’écriture scientifique est hautement rhétorique. L'utilisation
+de marqueurs de modalité épistémique atténuateurs (MMEA ; hedges en anglais) est
+l’une des stratégies rhétoriques les plus courantes, notamment dans les textes scien-
+tifiques, car ils permettent aux auteurs d'exprimer la possibilité, l'hypothèse, la
+prudence voire le doute, plutôt que la certitude. Crismore et Farsnworth (1989) ont
+montré que ces marqueurs d'atténuation se retrouvent en grande quantité dans une
+œuvre scientifique qui a fait époque: On fhe origin of species by means of natural
+selection, or the preservation of favoured races in the struggle for life? (dorénavant
+OS), ouvrage phare de l’éminent naturaliste britannique Charles Robert Darwin
+(1809-1882), dont la première édition est parue en 1859. Ces marqueurs constituent
+donc un élément caractéristique du texte darwinien. Leur importance tient au fait
+qu’ils témoignent de la volonté de Darwin de se montrer prudent, circonspect,
+modeste, bref, diplomate, en raison du caractère révolutionnaire des idées qu’il
+avance dans l’OS (Crismore et Farsnworth 1989: 101). De plus, bien que Brisset
+(2002) ait montré que le traitement de ces marqueurs dans la traduction française
+de l’OS par Clémence Royer (Darwin 1861/1862) est problématique, on sait très peu
+de choses des autres traductions des différentes éditions de l’OS, car elles n’ont pas
+été étudiées. Afin de combler ce vide, nous avons entrepris une étude quantitative
+comparative des marqueurs de modalité épistémique dans quatre traductions fran-
+çaises de l'OS.
+
+2. Contexte et problématique
+
+C’est dans l'OS que Darwin pose les assises conceptuelles de sa théorie de l’évolution
+(TE). Pendant les 150 ans qui ont suivi la parution de l'OS, la TE a révolutionné notre
+compréhension du vivant et de ses origines d’une manière qui dépasse largement les
+frontières de la science. En 1973, le célèbre biologiste Theodosius Dobzhansky“ publie
+un article au titre évocateur: Nothing in Biology Makes Sense Except in the Light of
+Evolution®. Maintes fois repris et cité, ce titre illustre bien la place privilégiée qu'oc-
+cupe aujourd’hui encore la TE au sein de la pensée scientifique dans sa version
+moderne dite «synthétique» ou «néodarwinienne». En effet, elle constitue un des
+principaux fondements théoriques de l’ensemble des sciences de la vie: biologie,
+génétique, écologie, médecine, paléontologie, anthropologie, pour n'en citer que
+quelques-unes. Dans la sphère publique, cette théorie fait toutefois encore l’objet de
+nombreux débats; certains la nient (ceux qui prônent notamment le créationnisme
+et le dessein intelligent) alors que d’autres la poussent à l'extrême (ceux qui font entre
+autres la promotion de l’eugénisme et du darwinisme social). Ainsi, le sujet est tou-
+jours d'actualité et suscite encore beaucoup d'intérêt.
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 89
+
+L'OS est une œuvre d’une très grande envergure, tant en volume que dans le temps,
+et de surcroit très complexe. En effet, on compte six éditions anglaises originales*,
+toutes parues chez l'éditeur John Murray (Londres). Près de vingt ans séparent la
+première et la dernière. Durant ce temps, voulant répondre à ses détracteurs, Darwin
+a modifié le texte de façon substantielle, en y apportant de nombreuses additions,
+suppressions et corrections. LOS a également été très largement traduite (et souvent
+retraduite), et ce, dans au moins une trentaine de langues, y compris le français’.
+
+Pourtant, les traductions de l'OS, notamment les traductions françaises qui nous
+intéressent ici, demeurent pratiquement inexplorées (voir Vandaele et Gendron-
+Pontbriand 2015). Les quelques études qui se sont penchées sur les traductions fran-
+çaises de l'OS portent exclusivement sur celles, controversées, de Clémence Royer. Sa
+traduction de la 3° édition anglaise (voir note 3), publiée en 1862, est la première
+traduction française de l’œuvre. Dans son Introduction du darwinisme en France au
+XIX* siècle (1974), Conry critique fortement Royer et sa traduction, l’accusant d’avoir
+volontairement détourné le texte de Darwin pour servir ses convictions eugénistes
+personnelles. Pour sa part, Miles (1988 ; 1989) tente de défendre Royer. Ayant analysé
+sa traduction, elle identifie, de fait, de nombreuses «divergences » entre la traduction
+de Royer et l'original anglais, notamment des changements stylistiques et des glisse-
+ments qu'elle qualifie d'ordre « philosophique », mais elle conclut que la transforma-
+tion résultante du texte darwinien - d’un style plus prudent vers un style plus
+affirmatif - était justifiée pour rendre le texte acceptable pour un auditoire français.
+
+Cherchant à trouver un juste milieu entre les positions de Conry et Miles sur la
+qualité de la traduction de Royer, Brisset (2002) se place en médiatrice entre les deux
+auteures. Elle décrit la vie et l'œuvre de cette intellectuelle, autodidacte et polymathe,
+qui défendait ardemment les droits des femmes, mais également une certaine forme
+d’eugénisme et de darwinisme social. Moins dure à l'endroit de Royer que Conry,
+Brisset n'en demeure pas moins critique à l’issue de sa propre analyse de la traduction
+de Royer. Elle conclut que l'expression du doute y est modifiée - ce qui est présenté
+comme probable dans loriginal anglais tend à devenir certain dans la traduction -
+d’une manière qui dépasse l'adaptation aux normes françaises. Ce faisant, Royer ne
+rend pas justice à l'original darwinien.
+
+En évoquant, respectivement, des «changements stylistiques» ou une modifica-
+tion de «l'expression du doute» dans la traduction de Royer par rapport à l'original
+anglais, Miles et Brisset se réfèrent en fait à l'emploi de la modalité épistémique atté-
+nuatrice (MEA, hedging en anglais; voir section 4), sans toutefois la nommer explici-
+tement. Elles n’ont simplement pas eu recours à un cadre théorique linguistique pour
+la nommer et la décrire. Vandepitte, Vandenbussche, ef al. (2011) ont pour leur part
+eu recours au concept de modalité épistémique dans leur étude de deux traductions
+néerlandaises de l’OS: celles de Tiberius Cornelius Winkler (Darwin 1859/1860}$ et
+de Ludo Hellemans (Darwin 1859/2000)’, toutes deux réalisées à partir de la pre-
+mière édition anglaise de l’OS (1859). Ces auteurs ont analysé la traduction de huit
+marqueurs modaux épistémiques (will, may, might, possibl* probabl* et certainly)
+et ont montré que les deux traductions présentaient des différences de traitement de
+ces marqueurs. En effet, le degré de certitude exprimé par l'original est conservé dans
+la traduction de Hellemans, alors qu’il est accentué dans celle de Winkler. L'intérêt
+de quantifier des marqueurs réside dans le fait que ceci permet de conclure avec plus
+de certitude quant aux changements apportés par la traduction.
+
+90 META, LXI, HORS SÉRIE, 2016
+
+Par ailleurs, en ce qui concerne le français, il est aisé de comprendre pourquoi
+les traductions de Royer ont piqué l’intérêt des chercheurs: traitement des passages
+exprimant le doute, préface incendiaire, notes de traduction très détaillées, et enfin
+conflit entre Darwin et Royer (Darwin 1887: 110). Bien que cet intérêt soit justifié, le
+travail des autres traducteurs français qui se sont attaqués à l'OS n’a pourtant jamais
+été étudié. De fait, Conry et Miles ont abordé le sujet, respectivement, du point de
+vue de la philosophie des sciences et de l’histoire des sciences. S’intéressant à la tra-
+ductrice plutôt qu’à sa traduction, l’article de Brisset avait quant à lui des visées
+sociobiographiques. Bien que nous ne remettions pas en question la finesse de l’ana-
+lyse de ces trois auteures, ceci fait en sorte que les paramètres analysés n’ont pas été
+étudiés dans un cadre linguistique ni de manière quantitative.
+
+Ainsi, la concentration des travaux antérieurs sur les traductions de Royer donne
+lieu à un portrait incomplet des traductions françaises de l’OS. Le présent article se
+propose de remédier à cette situation en se penchant sur le traitement des MMEA
+dans quatre traductions françaises de l'OS, celles de Royer (Darwin 1861/1862; à titre
+de point de comparaison; voir note 3), de Moulinié (Darwin 1869/1873)", de Barbier
+(Darwin 1872/1876)! et de Berra (Darwin 1876/2009)°, car nous nous interrogeons
+sur le traitement des MMEA par les autres traducteurs de l'OS. Nous commencerons
+par situer le concept de modalité épistémique au sein du domaine plus large de la
+modalité, avant de présenter la méthodologie, y compris la stratégie de délimitation
+du corpus, qui nous permettra de comparer les traductions avec le texte source, mais
+aussi entre elles. Nous terminerons par l'analyse statistique des données extraites du
+corpus et une discussion du traitement des MMEA dans chacune des traductions.
+
+3. La modalité: un aperçu
+
+La modalité fait l’objet de discussion depuis l'Antiquité: elle relève autant des
+domaines de la philosophie et de la logique formelle que de la psychologie et de la
+linguistique (Day 2008). Il s’agit d’un phénomène linguistique complexe et hétéro-
+gène, difficilement circonscrit. De façon générale, la modalité permet aux locuteurs
+d’une langue de faire référence à des situations hypothétiques ou non réelles
+(Ziegeler 2006). En d’autres mots, la modalité permet d'exprimer l'existence de
+«mondes possibles» (von Fintel et Gillies 2007). Portner (2009) souligne l'existence
+de nombreux types de modalité et présente deux façons de les classifier. La première
+classification se fait en fonction de la nature de la modalité (figure 1, axe vertical),
+alors que la deuxième s'intéresse plutôt à la portée de la modalité (figure 1, axe hori-
+zontal). Dans un premier temps, on distingue la modalité épistémique (epistemic
+modality) de la modalité déontique (deontic modality). La modalité épistémique porte
+sur les connaissances et les croyances: il s’agit du degré de certitude par rapport à la
+vérité d’un énoncé, exprimé par le locuteur lui-même. Au contraire, la modalité
+déontique relève du langage prescriptif et permet d'exprimer ce qui est bien et ce qui
+est mal, en fonction d’un ensemble de règles donné. Dans un deuxième temps, on
+distingue la modalité sous-phrastique (sub-sentential modality), la modalité phras-
+tique (sentential modality) et la modalité discursive (discourse modality). La modalité
+sous-phrastique se situe au sein d’éléments plus restreints que la phrase, plus préci-
+sément, au sein de la proposition!?, notamment la modalité inhérente au sens lexical
+de certains verbes (figure 1A), noms et adjectifs (figure 1D) ou aux modes verbaux.
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 91
+
+La modalité phrastique concerne un élément discret qui affecte le sens global de la
+proposition, entre autres les adverbes, les auxiliaires modaux (figure 1B et LE), les
+temps verbaux". Enfin, la modalité discursive met en jeu l'articulation du discours,
+et donc peut impliquer plus qu’une phrase, comme le type de phrase utilisée (figure
+1F: une phrase impérative), la modalité subordonnée (figure 1C: la modalité exprimée
+dans la première phrase [«peut-être »] affecte l'interprétation de la deuxième [Portner
+2009: 8])!°, etc.
+
+FIGURE 1
+Typologie croisée des types de modalité!‘
+
+o 3 LÀ C. Éric ira peut-être
+ET N A. Marie croît qu’il à la pharmacie. Il
+3 £ À ne pleuvra pas. pourrait acheter du
+5 ê AN dentifrice.
+N Modalité sous- NN Modalité Modalité
+phrastique phrastique discursive
+
+F. Retirez vos
+chaussures avant
+d’entrer.
+
+E. Jean devrait
+présenter des excuses
+à Camille.
+
+D. Le repentir est une
+condition nécessaire
+au pardon.
+
+Modalité
+déontique
+
+Ÿ
+
+Nous nous sommes concentrée sur la modalité épistémique autant au plan sous-
+phrastique que phrastique et discursif (voir les sections hachurées de la figure 1). La
+modalité déontique n’a pas été retenue, car on ne lui reconnaît pas de rôle rhétorique
+dans l'OS.
+
+4. Marqueurs de modalité épistémique : le modèle de Hyland
+
+La modalité épistémique est un phénomène complexe qui a fait l’objet de très nom-
+breuses recherches, chacune l’abordant sous un angle particulier (Portner 2009 ; Day
+2010). Elle permet au locuteur d'exprimer son attitude par rapport à la vérité de la
+situation qu’il énonce. Hyland (1999) s’attarde à la modalité épistémique atténuatrice
+et à ses marqueurs (MMEA). La MEA a une fonction particulière: « [Hedges are]
+used to indicate either a) a lack of complete commitment to the truth value of an
+accompanying proposition, or b) a desire not to express that commitment categori-
+cally» (Hyland 1999: 2). Ce qui est important ici est la marque d’atténuation. Ainsi,
+sont exclus des MMEA les marqueurs épistémiques exprimant le jugement de valeur
+d’un locuteur («Les résultats étaient étonnamment clairs», «Il est terrifiant de penser
+que. ») et ceux exprimant sa conviction de la vérité d’une proposition («Les résultats
+montrent clairement que. », «Il est évident que... »).
+
+Hyland établit également une typologie des MMEA, constituée de trois catégo-
+ries. La MEA lexicale et la MEA syntaxique se réalisent respectivement sur le plan
+de l’unité lexicale et de la syntaxe. La MEA stratégique concerne le propos du locu-
+teur. Le tableau 1 présente cette typologie, ainsi que différentes sous-catégories de
+
+92 META, LXI, HORS SÉRIE, 2016
+
+MMEA et des exemples. Dans la présente étude, en raison de l’ampleur de l’analyse
+réclamée dans une œuvre aussi vaste que l'OS, nous nous sommes concentrée sur le
+repérage des MMEA syntaxiques et lexicaux. En effet, leur caractère d’unité quasi
+discrète autorise une méthode de repérage ciblant ces unités précisément. La MEA
+stratégique pourra faire l’objet d’une étude ultérieure, avec une méthode qui lui sera
+spécifique.
+
+TABLEAU 1
+Marqueurs relevant des trois catégories de MEA selon Hyland'”
+
+MEA lexicale Exemples
+
+Verbes lexicaux indicate, assume, believe, imply, suggest
+Auxiliaires modaux may, might, must, can, could, would
+Adverbes likely, possibly, probably, generally
+Adjectifs possible, approximate, relative
+
+Noms modaux estimate, possibility
+
+MEA syntaxique
+
+Forme passive splenectomy was performed [...]
+
+Phrase interrogative could it not be that [...]?
+
+Phrase impersonnelle it is not known whether...
+
+MEA stratégique
+
+Référence à des conditions limitantes under these conditions phosphorylation of PEPc by [...]
+Référence à un consensus in the context of the proposed model [...]
+Aveu d’un manque de connaissance there is no knowledge concerning [...]
+
+5. Méthodologie
+
+L'étude des traductions françaises de l'OS sur le plan de la modalité épistémique a
+nécessité l'élaboration d’une méthodologie spécifique. Dans les prochaines sous-
+sections, nous décrirons la stratégie employée pour délimiter le corpus à l'étude, la
+méthode d’annotation du corpus, ainsi que les outils utilisés pour l'extraction et
+l'analyse des données.
+
+5.1. Délimitation du corpus
+
+Comme nous l’avons souligné plus haut, l’OS est une œuvre imposante et complexe.
+Nous décrivons, dans le tableau 2, les différentes éditions anglaises de l'OS publiées
+du vivant de Darwin. Chacune d’entre elles s’est vu attribuer un code d'identification
+que nous utiliserons dorénavant pour y faire référence. Par ailleurs, il existe à ce jour
+dix traductions françaises, qui comportent en moyenne 450 pages chacune (Vandaele
+et Gendron-Pontbriand 2015). Celles-ci, avec leur code d’identification, sont décrites
+dans le tableau 3. Certaines soulèvent des questions soit en raison d’un conflit per-
+sonnel entre le traducteur et Darwin (le cas de Royer), soit en raison de la méthode
+de traduction employée (le cas de Becquemont; voir plus bas). Certaines éditions
+anglaises n’ont pas été traduites (cases hachurées).
+
+TABLEAU 2
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN
+Tableau comparatif des différentes éditions anglaises de POS"
+93
+
+On the origin of species by means of natural selection, The origin of species By means of
+Titre or the preservation of favoured races in the struggle . ? .
+for life preservation of favoured races in the
+struggle for life
+Parution. 1859 1860 1861 1866 1869 1872 1876
+Édition 1 2° 3 42 5 6a°! 6b
+Nombre de 14 15
+chapitres
+Nombre
+de pages* 490 490 525 577 579 429 429
+qomDee 150 190 | 150 885 | 159938 | 176108 | 175 632 192 283 192 283
+Code EN1859 | EN1860 | EN1861 | EN1866 | EN1869 EN1872 EN1876
+* Corps du texte seulement
+TABLEAU 3
+Tableau comparatif des traductions françaises de l'OS?
+Année EN | Édition anglaise Code Année FR Traducteur
+1859 l FR2008 1992/2008 Daniel Becquemont
+FR2013 2013* Thierry Hoquet
+1860 2
+FR1862 1862
+FR1866 1866?
+1861 3 FR1870 1870°* Clémence-Auguste Royer
+FR1883 1883 ??7
+FRsd s.d.2#
+ean-Jacques Moulinié
+1869 5 FR1873 1873 Jean-Jacques Moulinié
+1872 6a FR1876 1876 Edmond Barbier
+1876 6b FR2009 2009 Aurélien Berra
+
+Année EN ou FR: année de parution de l'édition anglaise ou de la traduction française
+
+Les tableaux 2 et 3 montrent que les différentes versions de l’OS et leurs traduc-
+tions totalisent plus de deux millions de mots, ce qui exclut d'emblée une annotation
+de l’ensemble. Le critère de faisabilité de l’étude a donc imposé une délimitation
+raisonnée du corpus à étudier s'appuyant sur des critères de validité formulés à par-
+tir d’une analyse de la structure de l'œuvre et de ses traductions. Premièrement, nous
+avons choisi de limiter notre étude au quatrième chapitre de l'ouvrage, intitulé
+«Natural Selection» («Natural Selection; or Survival of the Fittest», dans les éditions
+de 1869 et 1872/1876), qui traite du concept-clé de la TE darwinienne: la sélection
+naturelle comme moteur de l’évolution des espèces. Avec Le chapitre V, qui traite des
+lois de la variation, il s’agit du chapitre le plus important de l'OS (Hoquet 2013: 164).
+Bien qu’indépendant, notre choix s’est révélé identique à celui de Vandepitte,
+Vandenbussche, et al. (2011).
+
+94 META, LXI, HORS SÉRIE, 2016
+
+Deuxièmement, nous avons retenu quatre des dix traductions françaises de l'OS
+présentées dans le tableau 3: FR1862 (Royer), FR1873 (Moulinié), FR1876 (Barbier)
+et FR2009 (Berra). Dans le cas de Royer, nous n'avons retenu qu’une seule des cinq
+traductions, celle de 1862, soit la première (FR1862). Une comparaison informatique
+des textes en format électronique, réalisée à l’aide de la fonction Comparaison de
+textes dans MS Word, a montré que les traductions de 1862, 1866 et 1870 étaient
+pratiquement identiques”. Mis à part quelques changements de typographie et de
+ponctuation, la seule modification notable est un changement terminologique: «élec-
+tion naturelle» (1862), choix terminologique critiqué entre autres par Conry, devient
+«sélection naturelle» (1866; 1870). Pour sa part, la traduction de Hoquet n'est parue
+qu'en mars 2013, bien après que notre recherche ait débuté; nous n'avons donc pas
+pu la prendre en compte. Quant à la traduction de Becquemont (2008), elle se
+démarque par sa stratégie inusitée: Becquemont a travaillé à partir de la traduction
+de la 6° édition anglaise par Edmond Barbier dans le but d'aboutir à une traduction
+de la 1" édition anglaise*?. Cette traduction a été écartée, car elle fera l’objet d’une
+étude à part.
+
+Troisièmement, il a fallu régler un problème lié à la comparaison de traductions
+issues, respectivement, de textes sources successifs et donc présentant des différences:
+EN1861, EN1869, EN1872 et EN1876. En effet, prendre en considération ces quatre
+éditions anglaises dans leur intégralité ne permet pas de comparer les traductions
+entre elles. Pour cela, il faut un texte source unique. Nous avons donc repéré, dans
+le chapitre IV, les phrases qui sont demeurées identiques, ou qui n'ont été que très
+légèrement modifiées (par exemple, des modifications de ponctuation ou de typogra-
+phie, le remplacement d’un mot unique, un changement dans l’ordre des mots, des
+reformulations superficielles) entre les différentes éditions de l'OS. Ceci a pu être
+réalisé grâce à l’outil variorum accessible gratuitement sur le site Web The Complete
+Works of Charles Darwin Online*!, sous la direction de John van Wyhe. Nous avons
+ainsi pu identifier 311 phrases totalisant 11 260 mots.
+
+Finalement, la faisabilité de l’annotation en elle-même s’est révélée une contrainte
+importante dans la stratégie adoptée, ce qui a nécessité, aux fins de la comparaison
+des traductions, de restreindre encore plus le corpus de 311 phrases décrit précédem-
+ment (311 phrases x 5 textes = 1 555 phrases, soit un minimum de 56 300 mots). La
+stratégie d’annotation de corpus numérisés que nous allons décrire plus loin autorise
+en effet une grande finesse et une systématicité remarquable. En contrepartie, elle
+est chronophage. De plus, elle constitue un défi particulier sur le plan informa-
+tique en raison de l’usage d’un corpus parallèle comportant plusieurs traductions
+(Gendron-Pontbriand, Bodain, ef al. 2016). Nous avons donc tiré parti d’une étude
+parallèle (Gendron-Pontbriand 2013) qui nous avait permis de cibler des segments
+enrichis en conceptualisation métaphorique, permettant notamment à Darwin de
+formuler sa théorie. Plusieurs auteurs ont souligné le rôle crucial des métaphores
+dans la théorisation de la biologie (voir par exemple Vandaele 2009), particulièrement
+dans l’OS (Young 1985; Ruse 2000). Les phrases où la métaphorisation est dense
+représentent donc des segments riches conceptuellement. Procéder à l'analyse de la
+modalité épistémique sur ces segments nous permettra d'examiner ultérieurement
+des hypothèses de corrélation entre ces phénomènes. Un total de 55 phrases riches
+en conceptualisation métaphorique, totalisant 2 645 mots, avaient été isolées parmi
+les 311 phrases sélectionnées. Les quatre traductions de ces 55 phrases constituent
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 95
+
+la portion française de notre corpus. Elles totalisent respectivement 2 964 (FR1862),
+2 728 (FR1873), 2 879 (FR1876) et 2 946 (FR2009) mots. La composition et la taille
+totale de notre corpus sont décrites dans la figure 2.
+
+FIGURE 2
+Composition et taille du corpus”?
+
+EN1861
+FR1862 | | FR1873 | | FR1876 | | FR2009
+
+5.2. Annotation manuelle de texte dans l’environnement XML
+
+Hyland note que la MEA dépend du contexte: «[...] the interpretation of hedges in
+RAs cannot be captured by assigning particular semantic meanings to decontextua-
+lised forms: particular devices can only be interpreted as conveying hedging meaning
+in the utterance of actual sentences » (Hyland 1999: 155). Pour éviter une circularité
+qui découlerait de l'usage automatisé d’une liste prédéfinie, il a été nécessaire d’adop-
+ter une stratégie reposant sur le repérage «manuel» des MMEA en corpus. Pour ce
+faire, nous avons adapté la méthode d’annotation sémantique de textes décrite dans
+Gendron-Pontbriand, Bodaïn, et Vandaele (2016) pour le repérage des métaphores
+conceptuelles®. Réalisée grâce au langage de balisage XML et à certains de ses déri-
+vés (XQuery, XSLT) et à l’aide du logiciel Oxygen XML Editor 14.0, elle permet de
+repérer et de caractériser les MMEA directement dans le corpus, converti en format
+XML, et ce, en les entourant de balises. Une balise est un élément de langage XML
+délimité par deux chevrons (<...>). Les éléments balisés doivent être précédés d’une
+balise ouvrante et suivis d’une balise fermante. Des attributs insérés dans la balise
+permettent de consigner des informations linguistiques relatives à l’élément balisé.
+Le recours à l’annotation in situ à l’aide du langage XML comporte de nombreux
+avantages: notamment, outre sa précision, elle donne au chercheur une grande flexi-
+bilité dans le choix des attributs et lui permet de les mettre à jour facilement.
+
+Dans le présent projet, nous avons utilisé une seule balise, nommée <hedg», dont
+les cinq attributs sont décrits dans le tableau 4.
+
+96 MErA, LXI, HORS SÉRIE, 2016
+TABLEAU 4
+
+Description de la balise <hedg>
+<hedg>
+
+Attribut Contenu Description
+
+id Chiffre Numéro unique
+
+lex Texte Catégorie du discours à laquelle appartient le MMEA annoté
+lem Texte Forme lemmatisée du MMEA annoté
+
+nat Texte Type de MMEA
+
+comm Texte Commentaires
+
+L'attribut @id permet d’attribuer à chaque élément un numéro d’identification
+unique. Les attributs @lex (abréviation de «lexical») et @lemme permettent, respec-
+tivement, de spécifier la catégorie du discours à laquelle appartient l’élément annoté
+et sa forme lemmatisée, afin de permettre l'extraction de données en fonction de ces
+paramètres. L'attribut @comm permet à l’annotateur d’insérer des commentaires
+dans le texte. Finalement, l’attribut @nat (abréviation de « nature») nous permet de
+spécifier le type de MMEA à partir d’une liste de valeurs qui apparaît dans un menu
+déroulant de l’interface d’annotation. Cette liste découle d’une adaptation de la
+typologie des MMEA établie par Hyland (1999), présentée dans le tableau 5.
+
+TABLEAU 5
+Valeurs possibles de l’attribut @nat
+
+Valeurs Exemples
+
+Modalité inhérente, sans
+les auxiliaires modaux
+
+«Thus it is, as I believe, that two or more genera
+are produced [...]» (Darwin 1861: 129)
+
+«In a large genus it is probable that more than
+
+2 Auxiliaires modaux one species would vary.» (Darwin 1861 : 126)
+MMEA portant sur «What reason, it may be asked, is there for
+3 P Phrase interrogative supposing in these cases that two individuals ever
+
+la factivité de la
+1 proposition (la
+proposition est-elle
+4 | vraie ou fausse ?)
+
+concur in reproduction? » (Darwin 1861: 101)
+
+«[...] dans ce cas, il y aurait une rétrogradation
+réelle dans l'échelle de l’organisation.» (Darwin
+1872/1876 : 134, traduit par Barbier; voir note 11)
+
+«D'autres modifications de la même nature
+pourront encore accroître cet avantage [...]»
+
+Flexion verbale
+
+Auxiliaire modal avec
+
+flexion (Darwin 1872/1876: 88, traduit par Barbier; voir
+
+note 11)
+
+6 Tournure impersonnelle |‘ large genus it is probable that more than
+
+P one species would vary.» (Darwin 1861 : 126)
+MMEA portant sur : : Lu
+«This preservation of favourable variations and
+la source du Tournure personnelle - sn one Le
+7 . re . . the rejection of injurious variations, I call Natural
+jugement 1* personne du singulier =
+
+Selection.» (Darwin 1861: 84)
+
+«We may conclude, from what we have seen of
+the intimate and complex manner [...]»
+(Darwin 1861: 85)
+
+1 épistémique (qui
+émet le jugement ?)
+
+Tournure personnelle
+- 1" personne du pluriel
+
+Les phrases interrogatives (ligne 3 du tableau 5) et les tournures impersonnelles
+(ligne 6) sont des éléments qui ont été repris intégralement du modèle de Hyland.
+Tous les MMEA lexicaux, c’est-à-dire tous ceux dont le caractère modal est inhérent
+à leur sens lexical, se voient attribuer la valeur «modalité inhérente» pour l’attribut
+@nat (ligne 1); l’attribut @lex permet de les catégoriser en fonction de la partie du
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 97
+
+discours à laquelle ils appartiennent. Ainsi, nous prenons en compte tous les types
+de MMEA lexicaux décrits par Hyland. Les auxiliaires modaux ont une valeur dis-
+tincte pour les distinguer des verbes lexicaux (ligne 2).
+
+Nous prenons également en compte certains éléments présents dans le modèle
+de Hyland, mais que celui-ci n’approfondit pas. D’une part, bon nombre de phrases
+contiennent des pronoms personnels à la première personne du singulier ou du plu-
+riel (je/nous et I/we) (lignes 7 et 8): il s’agit d’une marque claire de la subjectivité de
+l’auteur, et c’est à ce titre que ces pronoms ont été annotés. En effet, Hyland (1999:
+45) affirme que l’usage de ces pronoms identifie explicitement l’auteur comme étant
+la source du jugement épistémique; ainsi la proposition n'apparaît pas comme une
+affirmation catégorique, mais comme l'opinion de l’auteur. Il est possible que ces
+pronoms personnels n'aient pas été abordés en détail par Hyland en raison de leur
+utilisation presque inexistante dans les articles de recherche scientifique modernes,
+qui constituaient l’objet de son étude. D'autre part, le modèle de Hyland étant
+construit à partir d’un corpus anglais, il ne rend pas compte des flexions verbales.
+Comme le souligne Larreya (2004: 741), les formes flexionnelles de sens modal
+existent en français, mais pas en anglais. Nous les avons donc prises en compte lors
+de l’annotation des traductions françaises de l’OS (lignes 4 et 5).
+
+Par ailleurs, nous n'avons pas pris en compte les formes passives. En effet, tout
+en reconnaissant que les verbes à la voix passive permettent à l’auteur de se distancier
+de ses propres affirmations, Hyland (1999: 5) souligne que ces MMEA syntaxiques
+sont très hétérogènes et leur caractérisation est donc ardue. Lui-même affirme que
+les formes passives nécessitent une étude distincte; il ne les prend d’ailleurs pas en
+compte dans son analyse. Une caractérisation plus fine et plus complète des MMEA
+de forme passive est ainsi nécessaire avant que ceux-ci puissent faire l’objet d'analyse.
+
+Enfin, pour évaluer statistiquement la représentativité de l’échantillon sélec-
+tionné, nous avons annoté la totalité du chapitre IV dans sa version de 1861 (première
+édition anglaise à avoir été traduite en français; voir note 2). Ceci nous a permis
+d'obtenir la densité et la répartition des MMEA dans l’ensemble du chapitre.
+
+5.3. Extraction et analyse des données
+
+Une fois les textes annotés, le langage de requête XQuery permet d'extraire les don-
+nées brutes en fonction des valeurs consignées dans les attributs présents dans les
+balises. Ces données sont ensuite transférées dans un tableur Excel à des fins d’ana-
+lyses qualitative et quantitative. Nous avons recours au test statistique du X? (chi-
+carré)" afin, d’une part, d’évaluer la représentativité de l’échantillon de 55 phrases
+par rapport à l’ensemble du chapitre IV en anglais et, d'autre part, de comparer les
+traductions à leur texte source, mais aussi entre elles. Le test porte sur la comparaison
+des répartitions des MMEA dans les différentes catégories de modalité épistémique.
+L'interprétation des résultats du test a été réalisée à l’aide d’une table de X? standard”
+et d’un calculateur de valeur p*.
+
+6. Résultats
+
+Après l’évaluation de la représentativité de l'échantillon de 55 phrases dans la langue
+source, nous présenterons le nombre et la répartition des MMEA relevés dans le texte
+
+98 META, LXI, HORS SÉRIE, 2016
+
+anglais et dans chacune des traductions françaises, ce qui nous permettra de com-
+parer chacune des traductions avec le texte anglais, mais aussi entre elles. Finalement,
+nous déterminerons s’il existe un changement qualitatif de la modalité épistémique
+entre le texte anglais et les différentes traductions.
+
+6.1. Caractérisation de l'échantillon de 55 phrases
+
+Les 55 phrases anglaises sélectionnées dans le chapitre IV de la 3° édition de l'OS
+(EN1861) selon la méthode décrite à la section 5.1 constituent le pivot de l’analyse.
+Elles constituent 12,5 % du chapitre. Dans un premier temps, nous avons évalué leur
+représentativité par rapport à l'ensemble du chapitre en ce qui concerne la répartition
+des différents types de MMEA, et ce, à l’aide d’un test du X?. Pour ce faire, nous avons
+appliqué la première méthode utilisée dans Gendron-Pontbriand, Bodain, et al.
+(2016: 726) et adaptée de Müller (1968 : 95-96). Ainsi, nous avons calculé la distribu-
+tion théorique en ramenant la distribution marginale à l’effectif observé pour le
+chapitre complet. Cette technique permet donc la comparaison d’une partie d’un
+corpus avec le corpus lui-même. Le tableau 6 montre le nombre d’occurrences de tous
+les MMEA annotés dans le texte source (EN1861) et dans les 55 phrases de notre
+échantillon (55 Phr), ainsi que le rapport entre les occurrences présentes dans l’échan-
+tillon et dans le chapitre complet, exprimé en pourcentage.
+
+TABLEAU 6
+Nombre d’occurrences des MMEA en fonction de leur typologie
+
+Types de MMEA EN1861 55 Phr % d'EN1861
+Modalité inhérente 296 47 15,9
+Auxiliaires modaux 526 88 16,7
+Tournures personnelles - 1" personne du singulier 127 10 7,9
+Tournures personnelles - 1" personne du pluriel 157 17 10,8
+Tournures impersonnelles 104 12 11,5
+Phrases interrogatives 30 2 6,7
+TOTAL 1 248 176 14,1
+
+Le tableau 6 montre que, pour la majorité des catégories, l’échantillon comporte
+entre 7% et 20% des occurrences de MMEA alors qu'il représente 12,5% de l’en-
+semble du chapitre. Pour les besoins du calcul du X?, les phrases interrogatives, dont
+l'effectif est faible, ont été regroupées avec les tournures impersonnelles*’. La valeur
+du X° pour les données du tableau 6 est donc de 93,34 pour un degré de liberté de 4,
+ce qui correspond à une valeur p de 0,00000103. En d’autres mots, cela signifie que
+l’on a une probabilité de 0,000103% de se tromper en affirmant que les deux distri-
+butions sont différentes, ce qui est en deçà du seuil généralement admis de 5%. La
+sélection non aléatoire de l’échantillon (sur la base de la présence d'expressions
+métaphoriques, voir section 5.1) a donc une incidence sur la distribution des MMEA.
+Il est logique de penser que, dans les passages où Darwin établit les assises concep-
+tuelles de sa théorie, la densité des MMEA est différente de celle du reste du texte.
+Nous pouvons néanmoins conclure que l’échantillon est valide pour les besoins de
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 99
+
+notre étude, dans la mesure où tous les types de MMEA recensés dans l’ensemble du
+chapitre s’y trouvent également, et ce, avec un effectif suffisant pour permettre l’appli-
+cation du test du X? (exception faite des phrases interrogatives). Étant donné le petit
+nombre de phrases interrogatives dans l’échantillon, les conclusions relatives à cette
+catégorie devront être prudentes.
+
+6.2. Répartition des MMEA dans les différentes traductions françaises
+de l'OS
+
+6.2.1. Répartition globale
+
+Les résultats décrits dans la suite de l’article sont tirés exclusivement de l’échantillon
+de 55 phrases en anglais et de ses quatre traductions en français. Le tableau 7 présente
+le nombre d’occurrences des MMEA dans les cinq échantillons. Nous avons comparé
+la répartition des MMEA dans l'échantillon anglais et dans chacune des traductions
+à l’aide du test du X?, cette fois-ci en appliquant la deuxième méthode proposée par
+Gendron-Pontbriand, Bodain, et al. (2016). Selon cette méthode, H, correspond à une
+hypothèse d'équivalence parfaite: les répartitions des MMEA dans l'original anglais
+et dans la traduction française seraient identiques. La distribution théorique corres-
+pond donc à la répartition des MMEA dans l'échantillon anglais.
+
+À nouveau, les phrases interrogatives ont été regroupées avec les tournures
+impersonnelles en raison de leur faible effectif. Il faut également noter que l'anglais
+et le français ont des moyens grammaticaux spécifiques pour exprimer la modalité.
+Or, le test du X? exige des catégories cohérentes entre les distributions à l’étude. Pour
+autoriser l'usage du test, nous faisons donc correspondre à la catégorie homogène des
+auxiliaires modaux en anglais (p. ex.: may, can, etc.) une catégorie grammaticale-
+ment hétérogène en français, mais homogène sur le plan du sens, constituée d’auxi-
+liaires modaux fléchis (p. ex.: pourrait, devrait, etc.) ou non (p. ex.: doit, peut, etc.),
+ainsi que de verbes lexicaux au conditionnel (p. ex.: semblerait, etc.) ou au futur
+quand ce dernier exprime une atténuation (p. ex.: verrons, etc.).
+
+TABLEAU 7
+
+Nombre d’occurrences de chaque type de MMEA dans l'échantillon anglais
+et dans chacune des traductions françaises
+
+Types de MMEA ns iEs
+Modalité inhérente 47 40 44 43 44
+Auxiliaires modaux et flexions 88 63 72 57 72
+Tournures personnelles - 1" personne du singulier 10 7 13 9 10
+Tournures personnelles - 1° personne du pluriel 17 8 12 12 16
+Tournures impersonnelles 12 25 17 31 20
+Phrases interrogatives 2 2 2 2 1
+TOTAL 176 145 160 154 163
+X° 25,88 7,26 38,32 6,66
+p |0,000034 0,12 5,1x107| 0,16
+
+100 META, LXI, HORS SÉRIE, 2016
+
+La première observation est qu'aucune des traductions françaises ne comporte
+le même nombre de MMEA que l'échantillon anglais. La traduction de Berra est celle
+qui comporte le plus de MMEA, alors que celle de Royer en comporte le moins.
+Ensuite, les résultats du test du X? montrent que les traductions de Royer et de Barbier
+sont significativement différentes du texte anglais (valeurs p inférieures à a = 0,05)
+sur le plan de la répartition des MMEA. En effet, la probabilité de se tromper en
+affirmant que chacune de ces traductions est significativement différente du texte
+anglais est inférieure à 0,01 %. En revanche, les répartitions des MMEA dans les
+traductions de Moulinié et de Berra ne sont pas significativement différentes de l’ori-
+ginal (p > 0,1).
+
+6.2.2. Influence du processus de traduction
+
+Le test du X? effectué sur les données du tableau 7 offre une vision globale de la
+répartition des MMEA dans l'original anglais et les quatre traductions françaises.
+Cependant, il ne reflète pas la réalité du processus de traduction. En l’occurrence, les
+MMEA présents dans le texte original peuvent être traduits ou omis dans le texte
+cible; certains MMEA peuvent également avoir été ajoutés dans la traduction. Le
+tableau 8 montre le nombre de MMEA omis et ajoutés dans chacune des traductions
+en fonction de leur type.
+
+TABLEAU 8
+
+Nombre de MMEA anglais omis et nombre de MMEA ajoutés dans chacune des traductions
+françaises en fonction de leurs types
+
+FR1862 FR1873 FR1876 FR2009
+Types de MMEA Royer Moulinié | Barbier Berra
+
+O A | O A | O A | O A
+
+Modalité inhérente 12 6 8 5 9 6 4 1
+Auxiliaires modaux et flexions 29 2 26 | 10 | 37 5 16 0
+Tournures personnelles - 1" personne du singulier 0 0 0 1 1 0 1 0
+Tournures personnelles - 1" personne du pluriel 5 2 2 2 1 1 0 0
+Tournures impersonnelles 6 11 5 7 5 19 2 10
+Phrases interrogatives 0 0 0 0 0 0 1 0
+TOTAL 52 | 21 al 25 53 31 24 11
+
+O = omission; À = ajout
+
+On observe que la traduction de Barbier comporte le plus d’omissions (53) ce qui
+correspond à 30% de tous les MMEA repérés dans l’échantillon anglais (176). La
+traduction de Royer comporte presque autant d’omissions (52) que celle de Barbier.
+La traduction de Berra, au contraire, contient le moins d’omissions (25), ce qui repré-
+sente 14% des MMEA relevés dans l'original. Parmi les omissions, ce sont les auxi-
+liaires modaux qui en font le plus les frais: 29/52 (56%) chez Royer, 26/41 (63 %) chez
+Moulinié, 37/53 (70%) chez Barbier et 16/24 (67%) chez Berra. L'expression de la
+modalité inhérente suit, avec 12/52 (23%) pour Royer, 8/41 (20%) pour Moulinié,
+9/41 (22%) pour Barbier et 4/24 (17%) pour Berra. En ce qui concerne les MMEA
+ajoutés, la traduction de Barbier est celle qui en contient le plus, alors que la traduction
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 101
+
+de Berra en comporte le moins. Parmi les ajouts, ce sont les tournures impersonnelles
+qui sont en général le plus représentées: 11/21 (52%) chez Royer, 19/31 (61%) chez
+Barbier et 10/11 (91 %) chez Berra. Dans le cas de la traduction de Moulinié, ce sont
+les ajouts d’auxiliaires modaux qui sont les plus fréquents (10/25 = 40 %).
+
+En plus des MMEA omis ou ajoutés, notre méthode d’annotation permet aussi
+de comptabiliser, pour chaque traduction, tous les MMEA traduits en fonction du
+type de transfert: le MMEA traduit est du même type que le MMEA original
+anglais ou le MMEA traduit est d’un autre type. Ces données, ainsi que les ajouts et
+les omissions, sont présentées dans le tableau 9.
+
+TABLEAU 9
+
+Nombre d’occurrences de chaque type de MMEA dans chacune des traductions françaises
+en fonction du type de transfert
+
+Catégories de transfert FRI862 FRIS73 FR1876 FR2009
+Royer | Moulinié | Barbier | Berra
+1 Modalité inhérente > Modalité inhérente 34 38 37 43
+2 Modalité inhérente > Aux. modaux et flexions 0 1 1 0
+3 S + Modalité inhérente 6 5
+4 Modalité inhérente > © 12 8 9 4
+5 Aux.modaux > Aux. modaux et flexions 60 61 51 72
+6 Aux.modaux > Modalité inhérente 0 1 0 0
+7 S > Aux. modaux et flexions 2 10 5 0
+8 Aux.modaux > © 29 26 37 16
+9 T. pers. 1 p. sing. > T.pers.1"p. sing. 7 9 8 9
+10 T. pers. lp. sing. > T.pers. 1" p. pl. 1 0 0 0
+11 T. pers. lp. sing. > T.impersonnelles 1 1 1 0
+12 T. pers. 1° p. sing. > Aux. modaux et flexions 1 0 0 0
+13 © > T.pers. 1" p.sing. 0 1 0 0
+14 T. pers. 1*p. sing. > © 0 0 1 1
+15 T. pers. l*p.pl > T. pers. 1" p. pl. 5 10 10 16
+16 T. pers. l*p.pl > T.impersonnelles 7 2 4 0
+17 T. pers. l®p.pl > T. pers. 1" p.sing 0 3 1
+18 © > T.pers.l"p. pl. 2 2 1 0
+19 T. pers. l*p.pl > © 5 2 1 0
+20 T. impersonnelles > T.impersonnelles 6 7 7 10
+21 T. impersonnelles > T. pers. 1" p. pl. 0 0 1 0
+22 © > T.impersonnelles 11 7 19 10
+23 T. impersonnelles > 6 5 5 2
+24 | Phrasesinterrogatives > Phrases interrogatives 2 2 2 1
+25 SD > Phrases interrogatives 0 0 0 0
+26 |Phrasesinterrogatives > © 0 0 0 1
+
+Afin d'autoriser l’application du test du X? (nécessité d’avoir des effectifs supé-
+rieurs à 5 dans chaque catégorie), nous avons regroupé certaines catégories du
+tableau 9. Nous avons effectué les regroupements suivants: les MMEA ajoutés dans
+le texte cible (3, 7, 13, 18, 22 et 25); les MMEA de modalité inhérente en anglais
+modifiés ou omis en français (2 et 4); les auxiliaires modaux en anglais modifiés ou
+omis en français (6 et 8); les tournures personnelles à la 1" personne du singulier et
+
+102 META, LXI, HORS SÉRIE, 2016
+
+à la 1° personne du pluriel en anglais modifiées ou omises en français (10, 11, 12, 14,
+16, 17 et 19); les tournures impersonnelles et les phrases interrogatives (20 et 24; voir
+note 37); les tournures impersonnelles et les phrases interrogatives modifiées ou
+omises en français (21, 23 et 26). Le tableau 10 montre le résultat de ce regroupement.
+
+TABLEAU 10
+Regroupement des données du tableau 9 pour le calcul du X?
+
+FR1862 | FR1873 | FR1876 | FR2009
+
+Catégories de transfert Royer | Moulinié | Barbier Berra
+
+Modalité inhérente > Modalité inhérente 34 38 37 43
+
+Modalité inhérente /
+T. pers. 1° p. sing. /
+T. pers. 1®p.pl/ > Gou* 33 22 24 9
+
+T. impersonnelles /
+P. interrogatives
+
+Aux. modaux > Aux. modaux et flexion 60 61 51 72
+Aux.modaux > Gou* 29 27 37 16
+
+T. pers. 1p.sing. > T.pers.1"p. sing. 7 9 8 9
+T. pers. l*p.pl T.pers. 1" p. pl. 5 10 10 16
+re als 8 | so | + un
+D > * 21 25 31 11
+
+* = tout type de MMEA
+
+Nous avons appliqué le test du X? aux données du tableau 10 en comparant les
+traductions deux à deux. Ce faisant, nous comparons les stratégies de traduction des
+quatre traducteurs. La distribution théorique n’est ici pas connue. Nous avons donc
+adopté la méthode d'estimation des effectifs théoriques par tableau de contingence
+(Müller 1968: 96; Chanquoy 2005: 249-251). Les valeurs du X? résultantes et les
+valeurs p correspondantes sont présentées dans le tableau 11.
+
+TABLEAU 11
+Valeurs du X? et valeurs p calculées sur les données du tableau 9
+
+Traductions FR1873 (Moulinié) FR1876 (Barbier) FR2009 (Berra)
+FR1862 (Royer) b F0 p der p “600015
+FR1873 (Moulinié) p 6e p 0 5
+FR1876 (Barbier) p 50012
+
+On constate que les stratégies de traduction de Berra (FR2009) sont significati-
+vement différentes de celles de toutes les autres traductions. En effet, pour chaque
+comparaison, la probabilité de se tromper en affirmant que la traduction de Berra est
+différente des autres traductions sur ce plan est inférieure à 1%. Quant aux traduc-
+tions de Royer (FR1862), de Moulinié (FR1873) et de Barbier (FR1876), on n'observe
+aucune différence significative entre elles (p > 0,05) sur le plan des stratégies de
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 103
+
+traduction. En effet, la probabilité de se tromper en affirmant que les stratégies de
+traduction sont différentes entre celles-ci varie entre 31 % et 66%.
+
+Comme nous le mentionnons à la note 34, la valeur du X? et la valeur p corres-
+pondante constituent une mesure de l'écart entre deux distributions. En plaçant les
+valeurs de X? obtenues au tableau 11 sur un graphique”, on peut illustrer la distance
+relative entre les quatre traductions (voir figure 3).
+
+FIGURE 3
+
+Distance relative entre les traductions françaises par rapport à la répartition
+des différents types de MMEA
+
+1
++
+
+1 = Royer, 2 = Moulinié, 3 = Barbier, 4 = Berra
+
+6.3. Effets de la traduction sur le degré de certitude
+
+Notre méthode d'extraction de données permet de créer des tableaux mettant en
+correspondance le texte source et chaque traduction française. Ainsi, il est possible
+de comparer la répartition des MMEA dans les textes source et cible, et de poser un
+jugement par rapport au changement de l’expression de la modalité épistémique, et
+ce, en se basant sur ce que nous avons appelé un «continuum de certitude», à l’instar
+de Desclés (2003: 55), en nous inspirant de la définition de la modalité épistémique
+proposée par Vilha (1999: 20): «[...] it can be seen as a scale ranging from impossible
+through unlikely, possible, and probable to certain.» La figure 4, un histogramme
+empilé ramené à 100 %, présente les MMEA relevés dans chacune des traductions en
+fonction de leur effet sur la modalité épistémique: 1) «égal», le MMEA français se
+trouve au même endroit sur le continuum de certitude que son équivalent anglais ;
+2) «moins», le MMEA français rend le propos moins certain que son équivalent
+anglais; 3) «plus», le MMEA français rend le propos plus certain que son équivalent
+anglais. La répartition des MMEA dans chacune de ces catégories d’effet de modalité
+est exprimée en pourcentage; les valeurs absolues sont également indiquées. Nous
+présentons en annexe un échantillon du corpus d'analyse illustrant ces trois types
+d'effet sur la modalité épistémique.
+
+104 META, LXI, HORS SÉRIE, 2016
+
+FIGURE 4
+Effet de la traduction sur le degré de certitude des MMEA
+
+100%
+8 = 4
+49 % TT 2,5 %
+90%
+29
+19
+
+80%
+
+26 18,8 %
+16,3 %
+70% 13,1%
+60%
+B Plus
+50% .
+Moins
+40% M Égal
+30%
+20%
+10%
+0%
+Royer Moulinié Barbier Berra
+
+La figure 4 révèle que près de 93% des MMEA repérés dans la traduction de
+Berra expriment le même degré de certitude que les MMEA correspondants dans
+l’échantillon anglais, ce qui en fait la traduction la plus équivalente à l’échantillon
+anglais sur le plan du degré de certitude global exprimé dans le texte. À l'opposé, la
+traduction de Royer s'éloigne le plus de l’échantillon anglais; en effet, 63% des
+MMEA repérés dans la traduction de Royer expriment le même degré de certitude
+que les MMEA correspondants dans l’échantillon anglais, alors que près de 24% des
+MMEA expriment un degré de certitude plus élevé que le texte source. Les traduc-
+tions de Moulinié (FR1873) et de Barbier (FR1876) affichent un profil similaire. Les
+MMEA exprimant le même degré de certitude que les MMEA anglais correspondants
+représentent 67,5% des MMEA repérés dans la traduction de Moulinié et 69,5% de
+ceux repérés dans la traduction de Barbier. La traduction de Moulinié comporte
+également une plus grande proportion de MMEA exprimant un degré de certitude
+plus élevé que les MMEA anglais correspondants que la traduction de Barbier (16%
+contre 12 %).
+
+7. Discussion
+
+Notre étude se veut exploratoire dans la mesure où, pour des raisons de faisabilité,
+les 55 phrases analysées dans les quatre traductions françaises à l’étude forment un
+corpus restreint par rapport à l’ensemble de l'OS. Nous avons déterminé que notre
+échantillon présentait des différences quant au nombre et à la répartition des diffé-
+rents types de MMEA en comparaison au chapitre IV. Cependant, les résultats tirés
+de cet échantillon peuvent néanmoins nous éclairer quant aux tendances de chacun
+des traducteurs, car les effectifs observés autorisent l’application du test statistique
+du X?, la plupart du temps. Lorsque la granularité des paramètres observés augmente,
+on constate cependant que le X? devient de moins en moins applicable. Dans ce cas,
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 105
+
+notre étude nous donne des éléments concrets pour élargir le corpus et envisager des
+stratégies complémentaires pour: 1) confirmer les tendances observées dans d’autres
+parties de l'œuvre étudiée et 2) corréler plusieurs phénomènes. D’ores et déjà, les
+résultats que nous présentons - notamment une différence plus ou moins marquée
+avec le texte source et un traitement non identique des MMEA par les quatre traduc-
+teurs — apportent des premiers éléments de réponse dans l’étude des traductions
+françaises de l'OS.
+
+Certains résultats concernant la comparaison des répartitions des MMEA entre
+chacune des traductions et l'échantillon anglais étaient attendus. En effet, ils
+montrent que la traduction de Royer diffère significativement du texte de départ sur
+le plan de la répartition des MMEA (section 6.2). Elle est également celle qui affiche
+la proportion la plus élevée de MMEA accentuant le degré de certitude du texte
+(23,4%), en plus de comporter le deuxième plus haut total d’omissions (52). Par com-
+paraison, Barbier réalise presque le même nombre d’omissions (53), mais fait 10 ajouts
+de plus (31, contre 21 pour Royer). Étonnamment, Barbier manipule le texte source
+autant, sinon plus, que Royer. Il faut souligner que les omissions, en plus d’affecter
+la répartition des MMEA entre les différents types, jouent sur le degré de certitude
+exprimé par la traduction. Hyland (1999: 79) affirme en effet que: « [the removal of
+hedges] is a major linguistic means of conferring greater certainty on propositions.»
+Tous ces résultats convergent vers une augmentation du degré de certitude de la
+traduction de Royer par rapport à l’échantillon anglais. Ceci est en accord avec les
+conclusions de Brisset, pour qui la traduction de Royer affiche bel et bien un degré
+de certitude plus élevé que son original: «[...] elle fait converger l’argumentaire
+darwinien vers la nécessité; c’est-à-dire qu’elle transforme l'affirmation de l’évolu-
+tionnisme en prétention absolue» (Brisset 2002: 186). Pourtant, comme le montre le
+tableau 10, les stratégies de traduction employées par Royer ne sont pas significati-
+vement différentes de celles de Moulinié et de Barbier. Les divergences chez Royer
+ont cependant davantage marqué l’imaginaire, peut-être en raison de son paratexte
+explosif, de la forte personnalité de la traductrice et de son état de femme.
+
+Les résultats relatifs à la traduction de Barbier étaient, pour leur part, inattendus.
+En effet, celle-ci diffère, elle aussi, significativement du patron de répartition des
+catégories de MMEA de l'original anglais. Cette différence est même plus marquée
+que dans le cas de Royer (valeur du X? plus élevée chez Barbier que chez Royer). Le
+degré de modalité épistémique y a aussi été modifié dans environ 30 % des cas (accen-
+tuation de la certitude, 18,8 % ; atténuation de la certitude, 11,7 %). Cependant, cette
+traduction est également celle qui comporte à la fois le plus de MMEA ajoutés (31) et
+le plus de MMEA omis (53). On remarque donc une modification de la modalité
+épistémique dans la traduction de Barbier, qui provoque une accentuation du degré
+de certitude de la traduction par rapport à l'anglais, bien que celle-ci soit moins
+importante que dans la traduction de Royer. Il est intéressant de rappeler que le texte
+de Barbier -— seule traduction française de la 6° et dernière édition définitive de l'OS
+parue à l’époque darwinienne - était considéré jusqu’à récemment comme canonique
+dans l’histoire des traductions françaises de l'OS. On connaît peu de chose d’'Edmond
+Barbier, qui n'a laissé qu'une préface très courte dans sa traduction et peu de notes.
+Tort (2005: 206) le décrit comme un angliciste et fait surtout état de ses diverses
+traductions, autant des ouvrages de Darwin que de ceux d’autres savants de l’époque.
+Nos résultats suggèrent que la traduction de Barbier s’écarte plus de l'original anglais
+
+106 META, LXI, HORS SÉRIE, 2016
+
+qu’on aurait pu le croire, un état de fait qui a pu être camouflé par la controverse qu’a
+toujours suscitée la traduction de Royer.
+
+Quant à la traduction de Moulinié, elle n’est pas significativement différente du
+texte source sur le plan de la répartition des MMEA. Le degré de modalité épistémique
+y a été modifié dans 32,6% des cas (accentuation de la certitude, 16,3 % ; atténuation
+de la certitude, 16,3 %). Étant donné l’équipartition entre accentuation et atténuation
+de la certitude, on pourrait dire qu’il ny a aucun effet sur le degré de certitude global
+de la traduction. Cependant, le texte de Moulinié comporte un nombre non négli-
+geable d’omissions, deux fois plus élevé que le nombre d’ajouts. Il en résulte une
+accentuation du degré de certitude dans la traduction de Moulinié, bien que moins
+marquée que dans le cas de Royer et de Barbier. Fait intéressant, la qualité du français
+écrit de Moulinié, d’origine suisse, avait été remise en question. En effet, Moulinié a
+été révisé et corrigé par Edmond Barbier, autant pour sa traduction de l'OS (Prum
+2014: 396) que celle de The Descent of Man (1871; voir note 1). L'éditeur français
+Charles-Ferdinand Reinwald attribue d’ailleurs la faiblesse des ventes de cette dernière
+traduction en France à une piètre qualité linguistique (lettre de C.-F. Reinwald à
+C. Darwin datée du 14 mai 1873*). Dans une lettre à Darwin datée du 23 avril 1867,
+le scientifique allemand Carl Vogt rapporte que Jean-Jacques Moulinié lui a révélé
+que sa mère est anglaise et qu’il «parle l’anglais comme [sa] langue maternelle »*’. Les
+raisons objectives des critiques restent à déterminer, mais on peut envisager la possi-
+bilité d’interférences linguistiques ou l'emploi de régionalismes suisses trahissant son
+éloignement de Paris, ou encore, une sévérité de jugement motivée par d’autres rai-
+sons. Néanmoins, en ce qui concerne le traitement des MMEA, il semble que Moulinié
+respecte davantage que Barbier le patron établi par le texte anglais.
+
+Pour leur part, les résultats tirés de la traduction de Berra sont conformes aux
+attentes, étant donné son projet de traduction. Celui-ci est cohérent avec l'orientation
+adoptée pour le vaste projet de retraduction des œuvres de Darwin mené par Patrick
+Tort, dans lequel s’inscrit la traduction de Berra. En effet, dans le paratexte des retra-
+ductions faisant partie de ce projet, Tort critique souvent les traductions françaises
+contemporaines à Darwin, les qualifiant même d’«inacceptables» (Tort et Prum
+2008: 164), sans cependant préciser pourquoi. Il préconise plutôt une méthode de
+traduction très sourcière, voire littérale par endroits. Engel-Gautier (2010), dans son
+étude de la retraduction de The Descent of Man par l’équipe de Tort, mentionne que
+ces derniers vont même jusqu’à faire violence à la langue française. Comme l’indique
+le tableau 7, la répartition des MMEA n’était pas significativement différente entre la
+traduction de Berra et l’échantillon anglais. De plus, près de 93% des MMEA repérés
+dans cette traduction expriment un degré de certitude équivalent aux MMEA pré-
+sents en anglais. C’est cette traduction qui comportait également le moins d’omissions
+et le moins d’ajouts. Le texte de Berra est donc celui qui se rapproche le plus de l’ori-
+ginal en ce qui concerne le degré de certitude. Il faut également noter que, comme le
+montrent le tableau 10 et la figure 3, la traduction de Berra est significativement dif-
+férente des trois autres traductions pour ce qui est de la répartition des MMEA tra-
+duits, omis et ajoutés, alors que l’on n’observe pas de différence significative entre les
+trois traductions restantes. On remarque donc une distinction claire entre les traduc-
+tions contemporaines de Darwin et la traduction moderne que comporte notre étude.
+
+La réalisation de ce projet a également montré la nécessité de certaines rectifica-
+tions méthodologiques pour des travaux futurs. Tout d’abord, l’annotation des textes
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 107
+
+source et cible devrait se faire en parallèle, car, souvent, la traduction elle-même met
+en évidence l'importance de certaines expressions linguistiques dans le texte source
+qui passent inaperçues si le chercheur annote ce dernier indépendamment (voir
+Gendron-Pontbriand, Bodain, et Vandaele 2016 pour une comparaison des annota-
+tions séquentielle et parallèle). Puis, la mise en parallèle de l'original darwinien avec
+ses traductions a également mis au jour la saillance d’autres phénomènes de modalité,
+entre autres: la modalité épistémique exprimant la conviction (les boosters [Hyland
+2005], phénomène contraire aux MMEA), le rôle des temps de verbe et du mode
+verbal, les marqueurs d’articulation logique et l’organisation thème/rhème. En effet,
+nous avons observé des différences marquées entre l'original anglais et ses quatre
+traductions sur le plan de ces autres phénomènes discursifs. Finalement, nous men-
+tionnons également la question du nombre et de la longueur des phrases. Nous
+sommes en droit de nous demander si le style de Darwin - longues phrases, multiples
+incises, un effet de lenteur et de prudence - ne constitue pas en lui-même un élément
+de MEA discursive, qui est ainsi perturbé par la fragmentation des phrases dans une
+traduction comme celle de Royer, pour donner un style plus rapide, plus direct.
+
+Crisafully (2002: 27) souligne que l'opposition entre les approches empiriques-
+descriptives et critiques-interprétatives constitue un obstacle à l'avancement de la
+traductologie. Selon lui, une éventuelle réconciliation passe par la reconnaissance de
+la valeur des analyses aussi bien qualitatives que quantitatives. La présente étude se
+base plutôt sur des méthodes quantitatives, qui, comme le signale Tymoczko (2007:
+157), constituent la classe d'outils de validation la plus puissante en recherche. L'utilité
+des analyses quantitatives est en effet considérable, car ces dernières permettent de
+dégager des tendances ou des régularités dans les traductions à l’étude (Crisafully
+2002: 37). Même les études littéraires, qui s'inscrivent plutôt dans une tradition
+critique-interprétative, accordent de plus en plus d’importance aux analyses quanti-
+tatives : «[...] the bare claim that Woolf uses a great deal of personification is without
+value and nearly meaningless unless it is quantified. [...] most stylistic and interpre-
+tive observations rest upon patterns, and, therefore, upon repetition » (Hoover 2013:
+518-519). Notre étude a donc fourni des éléments de réponse à d’importantes ques-
+tions méthodologiques et historiques. Elle révèle entre autres l’intérêt d’une approche
+quantitative sur corpus appliquée à des textes historiques. Elle remet également en
+question des idées reçues par rapport à la place de la traduction de Royer dans la suite
+des traductions françaises de l'OS. Nous montrons en effet que celle-ci a plus en
+commun avec les traductions de Moulinié et de Barbier que l’on aurait pu croire. La
+présente étude pourra donc servir de tremplin à d’autres explorations des différentes
+traductions françaises de l’OS.
+
+REMERCIEMENTS
+
+La présente recherche a été rendue possible grâce à la bourse de doctorat Joseph-Armand
+Bombardier attribuée par le Conseil de recherche en sciences humaines du Canada à Eve-Marie
+Gendron-Pontbriand. Nous remercions Sylvie Vandaele pour les discussions au cours du projet,
+Yan Bodain (Université de Sherbrooke) pour son appui en matière de programmation XML et
+Nathan Ménard (Université de Montréal) pour ses conseils en matière de tests statistiques. Nous
+remercions également Aurélien Berra (Université Paris-Ouest Nanterre La Défense), qui a gra-
+cieusement mis à notre disposition sa traduction de l'OS en format électronique.
+
+108 META, LXI, HORS SÉRIE, 2016
+10.
+11.
+12.
+13.14.
+15.16.17.18.19.20.
+21.
+22.
+NOTES
+
+DARWIN, Charles (1871): The descent of man, and selection in relation to sex. Londres: John Murray.
+DARWIN, Charles (1859): On the origin of species by means of natural selection, or the preservation
+of favoured races in the struggle for life. 1" éd. Londres: John Murray.
+
+DARWIN, Charles (1861/1862): De l’origine des espèces ou des lois du progrès chez les êtres organisés.
+(Traduit par Clémence-Auguste ROYER à partir de la 3° éd. anglaise). Paris: Guillaumin et Cie/
+Victor Masson et Fils. DARWIN, Charles (1861): On the origin of species by means of natural selec-
+tion, or the preservation of favoured races in the struggle for life. 3° éd. Londres: John Murray.
+Theodosius Dobzhansky (1900-1975) est un célèbre généticien ukrainien (émigré aux États-Unis
+en 1928), reconnu comme étant un des artisans de la théorie synthétique de l’évolution, élaborée
+dans les années 1930 et 1940 (Dreuil 2005: 1239-1255).
+
+DoBzHANSKY, Theodosius (1973): Nothing in Biology Makes Sense Except in the Light of Evolution.
+American Biology Teacher. 35:125-129.
+
+Il est ici question des six éditions anglaises de l'OS révisées par Darwin et parues de son vivant, et
+non des diverses réimpressions publiées après sa mort.
+
+L'Index Translationum, mis en ligne par l'UNESCO, répertorie en tout 31 langues cibles: allemand,
+basque, catalan, chinois, coréen, croate, danois, espagnol, français, galicien, grec moderne, hébreu,
+hongrois, italien, japonais, kazakh, macédonien, malayalam, mongol, néerlandais, norvégien,
+polonais, portugais, russe, serbe, suédois, slovaque, tchèque, tibétain et turc. Toutefois, cette liste
+n'est pas nécessairement complète, car la version électronique ne contient que l’information biblio-
+graphique des livres traduits et publiés entre 1979 et 2009. Consulté le 12 novembre 2013, <http://
+www.unesco.org/culture/xtrans/>.
+
+DARWIN, Charles (1859/1860): Het ontstaan der soorten van dieren en planten door middel van
+natuurkeus ofhet bewaard blijven van bevoorregte rassen in den strijd des levens. (Traduit par
+Tiberius Comelius WINKLER à partir de la 1'° éd. anglaise, 1859). Haarlem: Kruseman.
+
+DARWIN, Charles (1859/2000): Over het ontstaan van soorten door middel van natuurlijke selectie,
+ofHet behoud van bevoordeelde rassen in de strijd om het leven. (Traduit par Ludo HELLEMANS à
+partir de la 1 éd. anglaise, 1859). Amsterdam: Nieuwezijds.
+
+DARWIN, Charles (1869/1873): L'origine des espèces au moyen de la sélection naturelle, ou La lutte
+pour l'existence dans la nature. (Traduit par Jean-Jacques MOULINIÉ à partir de la 5° éd. anglaise).
+Paris: C. Reinwald et Cie. DARWIN, Charles (1869): On the origin of species by means of natural
+selection, or the preservation of favoured races in the struggle for life. 5° éd. Londres: John Murray.
+DARWIN, Charles (1872/1876): L'origine des espèces au moyen de la sélection naturelle ou La lutte
+pour l'existence dans la nature. (Traduit par Edmond BARBIER à partir de la 6° éd. [6a] anglaise).
+Paris: C. Reinwald et Cie. DARWIN, Charles (1872): The origin of species by means of natural selec-
+tion, or the preservation of favoured races in the struggle for life. 6° éd. [6a]. Londres: John Murray.
+DARWIN, Charles (1876/2009): L'origine des espèces - Par le moyen de la sélection naturelle, ou la
+préservation des races favorisées dans la lutte pour la vie. (Traduit par Aurélien BERRA à partir de
+la 6° éd. [6b] anglaise). In: Patrick ToRT et Michel PRUM, dir. Œuvres complètes - Charles Darwin.
+Paris: Honoré Champion. DARWIN, Charles (1876) : The origin of species by means of natural selec-
+tion, or the preservation of favoured races in the struggle for life. 6° éd. [6b]. Londres: John Murray.
+Ce que Portner appelle «phrase» (sentence) correspond en fait à la proposition (clause).
+
+Portner (2009: 3) souligne que les modalités sous-phrastique et phrastique se chevauchent fré-
+quemment, et donc qu’il est difficile de les distinguer de façon définitive.
+
+Phénomène pragmatique où une phrase manifestant de la modalité phrastique affecte l’interpré-
+tation des phrases modalisées subséquentes (Portner 2009: 8).
+
+Exemples adaptés de Portner (2009: 2-3).
+
+Tableau établi à partir de Hyland (1999: 102-147)
+
+Tableau repris de Gendron-Pontbriand (2013: 36).
+
+DARWIN, Charles (1860): On the origin of species by means of natural selection, or the preservation
+of favoured races in the struggle for life. 2° éd. Londres: John Murray.
+
+DARWIN, Charles (1866): On the origin of species by means of natural selection, or the preservation
+of favoured races in the struggle for life. 4° éd. Londres: John Murray.
+
+Les éditions 6a et 6b ne diffèrent que par quelques corrections typographiques et orthographiques
+mineures, apportées par Darwin lui-même. Le texte n'ayant pas été modifié, l'édition de 1876 n'est
+pas envisagée comme distincte de celle de 1872.
+
+Tableau adapté de Gendron-Pontbriand (2013: 37).
+
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.31.32.33.
+34.
+35.
+36.
+37.
+38.
+39.40.
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 109
+
+DARWIN, Charles (1859/1992/2008) : L'Origine des espèces au moyen de la sélection naturelle ou la
+préservation des races favorisées dans la lutte pour la vie. (Traduction de la 1"° éd. anglaise, 1859,
+établie par Daniel BECQUEMONT à partir de la traduction de la 6° éd., 1872, anglaise par Edmond
+BARBIER) Daniel BECQUEMONT et Jean-Marc DROUIN, dir. Paris: Flammarion.
+
+DARWIN, Charles (1859/2013): L'Origine des espèces. (Traduit par Thierry HOQUET à partir de la
+1" éd. anglaise, 1859). Paris: Seuil.
+
+DARWIN, Charles (1861/1866): De l’origine des espèces par sélection naturelle ou des lois de trans-
+formation des êtres organisés. (Traduit par Clémence-Auguste ROYER à partir de la 3° éd. anglaise,
+1861). 2° éd. Paris: Guillaumin et Cie/Victor Masson et Fils.
+
+DARWIN, Charles (1861/1870) : De l'origine des espèces par sélection naturelle ou des lois de trans-
+formation des êtres organisés. (Traduit par Clémence-Auguste ROYER à partir de la 3° éd. anglaise,
+1861). 3° éd. Paris: Guillaumin et Cie/Victor Masson et Fils.
+
+DARWIN, Charles (1861/1883 ?): De l'origine des espèces par sélection naturelle ou des lois de trans-
+formation des êtres organisés. (Traduit par Clémence-Auguste ROYER à partir de la 3° éd. anglaise,
+1861). 4° éd. Paris: Flammarion.
+
+DARWIN, Charles (1861/s.d.) : De l’origine des espèces par sélection naturelle ou des lois de transfor-
+mation des êtres organisés. (Traduit par Clémence-Auguste ROYER à partir de la 3° éd. anglaise,
+1861). 5° éd. Paris: Marpon et Flammarion.
+
+Les quatrième et cinquième éditions de la traduction de Royer n’ont pu être incluses dans cette
+comparaison, car elles ne sont disponibles qu’en format papier à la Bibliothèque du Musée de
+l'Homme (Paris, France).
+
+Hoquet (Darwin 1859/2013: 10) qualifie en effet la traduction de Becquemont d’xétrange édifice».
+VAN WÿYHE, John, dir. (2002- ...): The Complete Works of Charles Darwin Online. Consulté le
+15 juillet 2016, <http://darwin-online.org.uk/>.
+
+Reproduit de Gendron-Pontbriand (2013).
+
+La méthode utilisée a été établie dans le groupe de recherche BiomeTTico pour le repérage de
+métaphores conceptuelles dans des corpus comparables (Vandaele et Lubin 2005; Vandaele et
+Boudreau 2006; Lubin 2006; Labelle 2009).
+
+Le X? est un test non paramétrique qui permet de mesurer l'écart entre une distribution observée
+etune distribution dite théorique. Pour ce faire, le test permet l’examen de deux hypothèses. D’une
+part, l'hypothèse nulle (H;) prédit que la différence entre les distributions est nulle ou non signi-
+ficative. D'autre part, l'hypothèse alternative (H.) affirme qu’il existe une différence significative
+entre les deux distributions. Comme l'explique Chanquoy (2005: 24), «[...] la décision de rejeter
+ou de conserver l'hypothèse nulle dépend de la valeur du X? calculée comparée à celle du X? critique
+lue dans la table, en fonction du seuil fixé et des degrés de liberté [...].» Sile X? calculé est inférieur
+au X? critique, on ne peut pas rejeter H,, et vice versa. La valeur du X?° critique correspond à une
+probabilité, appelée «seuil de confiance» (ou a), qui représente le risque de rejeter H, à tort. Le
+seuil généralement admis est de 5%, ou a = 0,05 (Chanquoy 2007: 247). À noter que la probabilité
+p de rejeter H, à tort peut être déterminée pour toute valeur de X? calculée. Ainsi, la valeur du X?
+et la valeur p correspondante permettent de chiffrer l’écart entre deux distributions : plus la valeur
+du X? est élevée et la valeur p est basse, plus la différence entre les distributions est marquée (et
+inversement).
+
+AKRITAS, Michael (Dernière mise à jour: 5 novembre 2006): Chi-Square Distribution Table.
+Consulté le 10 mai 2016, <http://sites.stat.psu.edu/-mga/401/tables/Chi-square-table.pd£.
+Dinov, Ivo (Dernière mise à jour: 5 mars 2015): High-Precision Distribution Calculators. Consulté
+le 20 juin 2016, <http://www.socr.ucla.edu/Applets.dir/Normal_T_Chi2_F Tables.htm>.
+
+Ce regroupement a été motivé par le fait que ces deux types de MMEA sont l’un et l’autre des
+marqueurs de MEA syntaxique.
+
+Ce graphique a été réalisé à l’aide du logiciel Distance de Brian Kinghorn (http://bkinghor.une.
+edu.au/distance.htm).
+
+Cité dans Vandaele et Gendron-Pontbriand (2015: 269).
+
+Lettre de C.-F. Reinwald à C. Darwin, le 23 avril 1867. Consultée le 1% avril 2016, <http://www.
+darwinproject.ac.uk/entry-5512>.
+
+110 META, LXI, HORS SÉRIE, 2016
+
+RÉFÉRENCES
+
+BRISsET, Annie (2002): Clémence Royer, ou Darwin en colère. In: Jean DELISLE, dir. Portraits
+de traductrices. Ottawa: Presses de l’Université d'Ottawa, 173-203.
+
+CHANQuoOY, Lucile (2005): Statistiques appliquées à la psychologie et aux sciences humaines et
+sociales. Paris: Hachette.
+
+Conry, Yvette (1974): L'introduction du darwinisme en France au XIX:' siècle. Paris: Vrin.
+
+CRISAFULLY, Edoardo (2002) :'The Quest for an Eclectic Methodology of Translation Description.
+In:'Theo HERMANS, dir. Crosscultural Transgressions. Research Models in Translation Studies
+Il. Historical and Ideological Issues. Manchester: St. Jerome, 26-43.
+
+CRISMORE, Avon et FARNSWORTH, Rodney (1989): Mr. Darwin and His Readers: Exploring
+Interpersonal Metadiscourse as a Dimension of Ethos. Rhetoric Review. 8(1):91-112.
+
+DARWIN, Francis (1887): The life and letters of Charles Darwin, including an autobiographical
+chapter. Vol. 3. Londres: John Murray.
+
+Day, Claudine (2008): Modalité et modalisation dans la langue. Paris: L'Harmattan.
+
+DESCLÉS, Jean-Pierre (2003): Interactions entre les valeurs de pouvoir, vouloir, devoir. In: Merete
+BIRKELUND, Gerhard BoysEN et Poul Soren KJÆRSGAARD, dir. Aspects de la modalité. Actes
+du colloque international sur la modalité. Tübingen : Max Niemeyer Verlag, 49-66.
+
+DREUIL, Daniel (1996): Néo-darwinisme. In: Patrick ToRT, dir. Dictionnaire du darwinisme et
+de l’évolution. Paris: Presses Universitaires de France, 3165-3184.
+
+ENGEL-GAUTIER, Carolyn (2010): Retranslating scientific works: The case of Darwin's The
+Descent of Man. In: David BANKS, dir. Aspects diachroniques du texte de spécialité. Paris:
+L'Harmatan, 35-52.
+
+GENDRON-PONTBRIAND, Eve-Marie (2013) : Modes de conceptualisation métaphoriques et théorie
+de l’évolution: analyse textuelle et traduction. Mémoire de maîtrise non publié. Montréal:
+Université de Montréal.
+
+GENDRON-PONTBRIAND, Eve-Marie, BODAIN, Yan et VANDAELE, Sylvie (2016): Deux méthodes
+d’annotation de la conceptualisation métaphorique dans un corpus parallèle: On the Origin
+of Species de Charles Darwin. In: Damon MAYAFFRE, Céline POUDAT, Laurent VANNI, ef
+al. dir. JADT 2016: Actes des 13% Journées internationales d'Analyse statistique des Données
+Textuelles. (13° Journées internationales d'Analyse statistique des Données Textuelles, Nice,
+France, 7-10 juin 2016). Vol. IL. Nice: Centre national de la recherche scientifique/Université
+Nice Sophia Antipolis, 719-730.
+
+Hoover, David L. (2013): Quantitative Analysis and Literary Studies. In: Susan SCHREIBMAN
+et Ray SIEMENS, dir. À Companion to Digital Literary Studies. Oxford: Blackwell, 517-533.
+
+HoQuET, Thierry (2013): The Evolution of the Origin (1859-1872). In: Michael RUSE, dir. The
+Cambridge Encyclopedia of Darwin and Evolutionary Thought. Cambridge: Cambridge
+University Press, 158-164.
+
+HYLAND, Ken (1999): Hedging in Scientific Articles. Amsterdam/Philadelphie: John Benjamins.
+
+HYLAND, Ken (2005): Metadiscourse. Exploring Interaction in Writing. Londres/New York:
+Continuum.
+
+LABELLE, Mélanie (2009): Les réseaux lexicaux nominaux témoignant de la conceptualisation
+métaphorique en anatomie. Mémoire de maîtrise non publié. Montréal: Université de
+Montréal.
+
+LARREYA, Paul (2004): L'expression de la modalité en français et en anglais (domaine verbal).
+Revue belge de philologie et d'histoire. 82(3):733-762.
+
+Lugin, Leslie (2006): Études des métaphores conceptuelles utilisées dans la description des
+structures anatomiques. Mémoire de maîtrise non publié. Montréal: Université de Montréal.
+
+MILES, Sara Joan (1988): Evolution and Natural Law in the Synthetic Science of Clémence Royer.
+Thèse de doctorat non publiée. Chicago : University of Chicago.
+
+MILES, Sara Joan (1989): Clémence Royer et De l’Origine des espèces: traductrice ou traîtresse.
+Revue de synthèse. 4:61-83.
+
+MÜüLLER, Charles (1968): Initiation à la statistique linguistique. Paris: Larousse.
+
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 111
+
+OLOHAN, Maeve et SALAMA-CARR, Myriam (2011): Translating Science. The Translator.
+17(2):179-188.
+
+PORTNER, Paul (2009) : Modality. Oxford : Oxford University Press.
+
+PruM, Michel (2014) : Charles Darwin's First French Translations. In: Thoms F. Gzic et Elinor
+SHAFFER. The Literary and Cultural Reception of Charles Darwin in Europe. Vol. 4. Londres/
+New York: Bloomsbury, 391-399.
+
+RUSE, Michael (2000) : Metaphor in evolutionary biology. Revue internationale de philosophie.
+54(214):593-619.
+
+TorT, Patrick (2005): Dictionnaire du darwinisme et de l’évolution. Paris: Presses Universitaires
+de France.
+
+TorT, Patrick et PruM, Michel (2008): Avertissement sur la traduction. In: Charles DARWIN. La
+variation des animaux et des plantes à l’état domestique. (Traduit par Aurélien BERRA)
+Œuvres complètes - Charles Darwin. Patrick TorT et Michel PRuM, dir. Genève: Slatkine,
+164.
+
+Tymoczko, Maria (2007): Enlarging Translation, Empowering Translators. Manchester : St. Jerome.
+
+VANDAELE, Sylvie (2009): Les modes de conceptualisation du vivant: une approche linguistique.
+In: Sylvain DaAvip, Janusz PRYCHODZEN et François-Emmanuël BOUCHER, dir. Que peut la
+métaphore? Histoire, savoir et poétique. Paris: L'Harmattan, 187-207.
+
+VANDAELE, Sylvie et BOUDREAU, Sylvie (2006): Annotation XML et interrogation de corpus pour
+l’étude de la conceptualisation métaphorique. In: Jean-Marie ViprEy, dir. JADT” 06: Actes
+des 8% Journées internationales d'Analyse statistique des Données Textuelles. (8 Journées
+internationales d'Analyse statistique des Données Textuelles, Université de Franche-Comté,
+Besançon, 19-21 avril 2006). Vol. 2. Besançon: Presses universitaires de Franche-Comté,
+951-959.
+
+VANDAELE, Sylvie et GENDRON-PONTBRIAND, Eve-Marie (2015): Des «vilaines infidèles» à la
+postérité: traduction et retraduction de l’œuvre de Charles Darwin. In: Julia PINILLA et
+Brigitte LÉPINETTE, dir. Traducciôn y diffusiôn de ciencia y de la técnica en España en los
+siglos XVIII y XIX. València: Universitat de València, 249-275.
+
+VANDAELE, Sylvie et LUBIN, Leslie (2005): Approche cognitive de la traduction des langues de
+spécialité: vers une systématisation de la description de la conceptualisation métaphorique.
+Meta. 50(2):415-431.
+
+VANDEPITTE, Sonia, VANDENBUSSCHE, Liselotte et ALGOET, Brecht (2011): Travelling Certainties:
+Darwin’s Doubts and Their Dutch Translations. The Translator. 17(2):275-299.
+
+VIHLA, Minna (1999): Medical Writing: Modality in Focus. Atlanta/Amsterdam : Rodopi.
+
+VON FINTEL, Kai et GILLIES, Anthony (2007) : An Opinionated Guide to Epistemic Modality. In:
+Tamar Szabo GENDLER et John HAWTHORNE, dir. Oxford Studies in Epistemology. Vol. 2.
+Oxford: Oxford University Press, 32-63.
+
+YounG, Robert Maxwell (1985): Darwin's Metaphor: Nature’s Place in Victorian Culture. Cam-
+bridge: Cambridge University Press.
+
+ZIEGELER, Debra (2006) : Mood and Modality in Grammar. In: Keith BROWN, dir. Encyclopedia
+of Language & Linguistics. 2° éd. Oxford: Elsevier, 259-267.
+
+112
+
+META, LXI, HORS SÉRIE, 2016
+ANNEXE
+Le tableau suivant fournit des exemples tirés de notre corpus, montrant les MMEA dans le texteanglais de 1861 et leurs équivalents dans les quatre traductions françaises étudiées. Le symbole°ME (degré de modalité épistémique) fait référence au degré de certitude exprimé par le MMEAfrançais par rapport au MMEA correspondant dans l'original anglais.
+°ME Texte anglais Traduction Texte français
+«[...] I can see no greater difficulty «[...] il est aussi aisé à l’élection naturelle
+Plus |inthis being effected through de produire un semblable
+natural selection [...]» (p. 91) perfectionnement [...]» (p. 123)
+«[...] so by generation I believe it «[...] ainsi, par une suite de générations
+Égal has been with the great Tree of Life FR1862 non interrompues, il en a été, je crois, du
+[...]» (p. 147) grand arbre de la vie [...]» (p. 190)
+«One large group will slowl Ben ns
+Moins | conquer another large group [..]» à Un groupe déjà puissant pourra seul
+vaincre un autre groupe [...]» (p. 171)
+(p- 131)
+«[...] and the largeness of any group sl “dl et 1 ae de a prise ce
+PI shows that its species have inherited oNnE PEOUVE que 'es especes quie
+us constituent ont hérité toutes ensemble
+from a common ancestor some d’ être d ]
+advantage in common.» (p. 131) Nreonnaur ancétre de que que
+condition favorable.» (p. 128)
+«I conclude that for terrestrial Li L est d 4
+Égal | productions of a large continental FR1873 ét L° a de ri ne as 12 vaste
+area [...]» (p. 113) étendue de continent [...]» (p. 112)
+«[...] and we may at least safely «[...] et nous sommes fondés à admettre,
+infer that diversification of que des diversifications dans leur
+Moins | structure, amounting to new structure, ayant une valeur générique,
+generic differences, would be auraient pu leur être avantageuses.»
+profitable to them.» (p. 121) (p. 120)
+«[...] in such cases there might be «[...] dans ce cas, il y aurait une
+Plus | retrogression in the scale of rétrogradation réelle dans l’échelle de
+organisation. » (p. 134) l’organisation. » (p. 134)
+«From these several considerations «Je crois que ces différentes
+Égal I think it inevitably follows [...] » FR1876 considérations nous conduisent à la
+(p. 116) conclusion inévitable [...]» (p. 118)
+«Natural Selection will modify the «La sélection naturelle peut modifier la
+Moi structure of the young in relation to conformation du jeune relativement aux
+oins . .
+the parent, and of the parent in parents et celle des parents relativement
+relation to the young.» (p. 91) aux jeunes.» (p. 92)
+«[...] I can see no limit to the «[...] je ne vois aucune limite à [...] la
+amount of change [...] which may complexité des coadaptations [...] qui ont
+Plus | be effected in the long course of pu être obtenus dans la longue suite des
+time by natures power of temps grâce au pouvoir de sélection que
+selection.» (p. 115) possède la nature [...]» (p. 393)
+«[...] we may gain some crude idea «[...] nous pouvons grossièrement nous
+Égal in what manner some of the natives FR2009 faire une idée de la manière dont certains
+would have to be modified [...]» des habitants d’origine devraient se
+(p. 121) modifier [...]» (p. 399)
+«Natural selection acts solely «La sélection naturelle agit uniquement
+through the preservation of par le biais de la préservation de
+Moins | variations in some way variations avantageuses en quelque
+advantageous, which consequently manière, lesquelles par conséquent
+endure.» (p. 115) tendent à persister.» (p. 393)
+
