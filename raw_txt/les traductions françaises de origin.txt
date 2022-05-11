@@ -328,9 +328,9 @@ anglaises n’ont pas été traduites (cases hachurées).
 
 TABLEAU 2
 
-LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN
+LES TRADUCTIONS FRANÇAISES DE ON THE ORIGIN OF SPECIES DE DARWIN 93
 Tableau comparatif des différentes éditions anglaises de POS"
-93
+
 
 On the origin of species by means of natural selection, The origin of species By means of
 Titre or the preservation of favoured races in the struggle . ? .
@@ -464,7 +464,7 @@ bilité dans le choix des attributs et lui permet de les mettre à jour facileme
 Dans le présent projet, nous avons utilisé une seule balise, nommée <hedg», dont
 les cinq attributs sont décrits dans le tableau 4.
 
-96 MErA, LXI, HORS SÉRIE, 2016
+96 META, LXI, HORS SÉRIE, 2016
 TABLEAU 4
 
 Description de la balise <hedg>
@@ -1428,9 +1428,7 @@ bridge: Cambridge University Press.
 ZIEGELER, Debra (2006) : Mood and Modality in Grammar. In: Keith BROWN, dir. Encyclopedia
 of Language & Linguistics. 2° éd. Oxford: Elsevier, 259-267.
 
-112
-
-META, LXI, HORS SÉRIE, 2016
+112 META, LXI, HORS SÉRIE, 2016
 ANNEXE
 Le tableau suivant fournit des exemples tirés de notre corpus, montrant les MMEA dans le texteanglais de 1861 et leurs équivalents dans les quatre traductions françaises étudiées. Le symbole°ME (degré de modalité épistémique) fait référence au degré de certitude exprimé par le MMEAfrançais par rapport au MMEA correspondant dans l'original anglais.
 °ME Texte anglais Traduction Texte français
