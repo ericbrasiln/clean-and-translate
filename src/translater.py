@@ -1,4 +1,4 @@
-'''Translater using deep-translator
+'''Translator using deep-translator
 '''
 from deep_translator import (GoogleTranslator)
 
@@ -42,7 +42,7 @@ translated_list = []
 for page in pages:
     # remove \n
     page = page.replace('\n', '')
-    # callfunction to translate text
+    # call function to translate text
     translated_text = translate_text(page, source_language, target_language)
     # add translated text to list
     translated_list.append(translated_text)
